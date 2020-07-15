@@ -2,19 +2,17 @@
   {
     "name": "10 Yard Fight",
     "released": {
-      "US": "6-1-1986",
-      "JPN": "7-15-1983",
-      "EUR": "10-15-1985"
+      "US": "10-18-1985"
     },
     "developers": [
-      "Nintendo"
+      "Nintendo R&D1"
     ],
     "publishers": [
       "Nintendo"
     ],
-    "series": "Classic Arcade",
+    "series": "Sports",
     "copy": {
-      "description": ""
+      "description": "10-Yard Fight is a 1-2 player football game and one of the first NES games released in North America.  It was developed by Nintendo R&D1 and published by Nintendo in North America. It was first released in Japan on August 30, 1983. It was then subsequently released in the Americas and Europe on October 18th and December 6th, 1985, respectively."
     }
   },
   {

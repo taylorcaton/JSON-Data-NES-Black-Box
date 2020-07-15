@@ -1,5 +1,23 @@
 [
   {
+    "name": "10 Yard Fight",
+    "released": {
+      "US": "6-1-1986",
+      "JPN": "7-15-1983",
+      "EUR": "10-15-1985"
+    },
+    "developers": [
+      "Nintendo"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "series": "Classic Arcade",
+    "copy": {
+      "description": ""
+    }
+  },
+  {
     "name": "Donkey Kong",
     "released": {
       "US": "6-1-1986",
@@ -13,6 +31,9 @@
       "Nintendo"
     ],
     "series": "Classic Arcade",
-    "story": "As the story goes, an escaped ape known as Donkey Kong has kipnapped a woman named Pauline, and takes her to a construction site. With Pauline's boyfriend, Mario, in pursuit after she yells in help for him, Donkey Kong uses his surroundings to try to stop Mario from saving his girlfriend. Along the way, Mario also finds tools and items of which can help him on his journey upwards."
+    "copy": {
+      "description": "Donkey Kong was a port of the 1981 arcade game of the same name, hailed at the time as the most popular video game.",
+      "story": "As the story goes, an escaped ape known as Donkey Kong has kipnapped a woman named Pauline, and takes her to a construction site. With Pauline's boyfriend, Mario, in pursuit after she yells in help for him, Donkey Kong uses his surroundings to try to stop Mario from saving his girlfriend. Along the way, Mario also finds tools and items of which can help him on his journey upwards."
+    }
   }
 ]

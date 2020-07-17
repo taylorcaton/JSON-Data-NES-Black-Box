@@ -1,4 +1,5 @@
 # Sample JSON data - NES Black Box edition
+
 ## WORK IN PROGRESS
 
 Sample JSON data to use with your projects
@@ -18,7 +19,7 @@ Sample Array Object
   "series": "Classic Arcade",
   "copy": {
     "description": "Donkey Kong was a port of the 1981 arcade game of the same name, hailed at the time as the most popular video game.",
-    "story": "As the story goes, an escaped ape known as Donkey Kong has kipnapped a woman named Pauline, and takes her to a construction site. With Pauline's boyfriend, Mario, in pursuit after she yells in help for him, Donkey Kong uses his surroundings to try to stop Mario from saving his girlfriend. Along the way, Mario also finds tools and items of which can help him on his journey upwards."
+    "story": "As the story goes, an escaped ape known as Donkey Kong has kidnapped a woman named Pauline, and takes her to a construction site. With Pauline's boyfriend, Mario, in pursuit after she yells in help for him, Donkey Kong uses his surroundings to try to stop Mario from saving his girlfriend. Along the way, Mario also finds tools and items of which can help him on his journey upwards."
   }
 }
 ```

@@ -38,7 +38,21 @@
     "publishers": ["Nintendo"],
     "series": "Sports",
     "copy": {
-      "description": "Baseball(JP) is a game that was released on the Nintendo Entertainment System and Game Boy based on the popular game of the same name. It is a simple Baseball game that is both developed and published by Nintendo."
+      "description": "Baseball is a game that was released on the Nintendo Entertainment System and Game Boy based on the popular game of the same name. It is a simple Baseball game that is both developed and published by Nintendo."
+    }
+  },
+  {
+    "name": "Clu Clu Land",
+    "released": {
+      "US": "10-18-1985",
+      "JPN": "11-22-1984",
+      "EUR": "2-15-1987"
+    },
+    "developers": ["Nintendo R&D1"],
+    "publishers": ["Nintendo"],
+    "series": "Action",
+    "copy": {
+      "description": "Clu Clu Land is a video game released on the NES in 1984. It stars the red, sphere-like protagonist Bubbles, who gets around by grabbing poles, swinging around them, then letting go to change directions."
     }
   },
   {

@@ -6,12 +6,8 @@
       "JPN": "",
       "EUR": ""
     },
-    "developers": [
-      "Nintendo R&D1"
-    ],
-    "publishers": [
-      "Nintendo"
-    ],
+    "developers": ["Nintendo R&D1"],
+    "publishers": ["Nintendo"],
     "series": "Sports",
     "copy": {
       "description": "10-Yard Fight is a 1-2 player football game and one of the first NES games released in North America.  It was developed by Nintendo R&D1 and published by Nintendo in North America. It was first released in Japan on August 30, 1983. It was then subsequently released in the Americas and Europe on October 18th and December 6th, 1985, respectively."
@@ -24,15 +20,25 @@
       "JPN": "1-22-1985",
       "EUR": "12-15-1986"
     },
-    "developers": [
-      "Nintendo R&D1"
-    ],
-    "publishers": [
-      "Nintendo"
-    ],
+    "developers": ["Nintendo R&D1"],
+    "publishers": ["Nintendo"],
     "series": "Action",
     "copy": {
       "description": "Balloon Fight is a two player NES game about a Balloon Fighter, who rides to the top with two balloons on his harness, and avoids ducks. There is also a multiplayer version were two Balloon Fighters fight with different weapons attempting to pop their opponents balloons. Also the Balloon Fighter was planned to be fighter in Super Smash Bros Melee, but was plucked out at last minute."
+    }
+  },
+  {
+    "name": "Baseball",
+    "released": {
+      "US": "10-18-1985",
+      "JPN": "12-7-1983",
+      "EUR": "9-1-1986"
+    },
+    "developers": ["Nintendo R&D1"],
+    "publishers": ["Nintendo"],
+    "series": "Sports",
+    "copy": {
+      "description": "Baseball(JP) is a game that was released on the Nintendo Entertainment System and Game Boy based on the popular game of the same name. It is a simple Baseball game that is both developed and published by Nintendo."
     }
   },
   {
@@ -42,12 +48,8 @@
       "JPN": "7-15-1983",
       "EUR": "10-15-1985"
     },
-    "developers": [
-      "Nintendo"
-    ],
-    "publishers": [
-      "Nintendo"
-    ],
+    "developers": ["Nintendo"],
+    "publishers": ["Nintendo"],
     "series": "Classic Arcade",
     "copy": {
       "description": "Donkey Kong was a port of the 1981 arcade game of the same name, hailed at the time as the most popular video game.",

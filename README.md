@@ -12,8 +12,8 @@ Sample Array Object
     "JPN": "7-15-1983",
     "EUR": "10-15-1985"
   },
-  "developers": [ "Nintendo" ],
-  "publishers": [ "Nintendo" ],
+  "developers": ["Nintendo"],
+  "publishers": ["Nintendo"],
   "series": "Classic Arcade",
   "copy": {
     "description": "Donkey Kong was a port of the 1981 arcade game of the same name, hailed at the time as the most popular video game.",
@@ -22,28 +22,27 @@ Sample Array Object
 }
 ```
 
-
 Games included:
 10 Yard Fight
 Balloon Fight
-Baseball	
-Clu Clu Land	
-Donkey Kong	
-Donkey Kong 3	
+Baseball
+Clu Clu Land
+Donkey Kong
+Donkey Kong 3
 Donkey Kong Jr
 Donkey Kong Jr Math
 Duck Hunt
-Excitebike	
+Excitebike
 Golf
 Gumshoe
 Gyromite
 Hogan’s Alley
-Ice Climber	
-Kid Icarus	
+Ice Climber
+Kid Icarus
 Kung Fu
 Mach Rider
-Mario Bros	
-Metroid	
+Mario Bros
+Metroid
 Pinball
 Popeye
 Pro Wrestling
@@ -51,9 +50,9 @@ Rad Racer
 Slalom
 Soccer
 StackUp
-Super Mario Bros	
+Super Mario Bros
 Tennis
 Urban Champion
 Volleyball
-Wild Gunman	
+Wild Gunman
 Wrecking Crew

@@ -69,5 +69,19 @@
       "description": "Donkey Kong was a port of the 1981 arcade game of the same name, hailed at the time as the most popular video game.",
       "story": "As the story goes, an escaped ape known as Donkey Kong has kipnapped a woman named Pauline, and takes her to a construction site. With Pauline's boyfriend, Mario, in pursuit after she yells in help for him, Donkey Kong uses his surroundings to try to stop Mario from saving his girlfriend. Along the way, Mario also finds tools and items of which can help him on his journey upwards."
     }
+  },
+  {
+    "name": "Donkey Kong 3",
+    "released": {
+      "US": "6-15-1986",
+      "JPN": "7-4-1984",
+      "EUR": "9-15-1987"
+    },
+    "developers": ["Nintendo"],
+    "publishers": ["Nintendo"],
+    "series": "Classic Arcade",
+    "copy": {
+      "description": "Donkey Kong 3 is an arcade game that features Donkey Kong and Stanley. Stanley is a bugman that comes to defeat Donkey Kong on the account that he broke into his greenhouse. Stanley will now have to use his bug spray to not only defeat Donkey Kong, but also kill all the bugs that DK let in. This is the first Donkey Kong game that doesn't feature Mario and is the first one not to be a direct platform game, which could have led to its unsuccessful sells. Instead of being a platform game, it was rather a shooting game."
+    }
   }
 ]

@@ -96,7 +96,7 @@
     "series": "Classic Arcade",
     "copy": {
       "description": "Donkey Kong Jr., also spelled Donkey Kong Junior in early arcade releases and home ports, is an arcade game starring Donkey Kong Jr. It is the direct sequel to Donkey Kong, and it and the similar Donkey Kong II, as well as Donkey Kong Circus are the only games in the Mario franchise where Mario is the antagonist.",
-      "story": "Poor Donkey Kong™ has been captured by Mario™ and now finds himself locked up in a cage! It's up to Donkey Kong's son, Junior, to rescue him by snatching the keys to the cage away from Mario. Unfortunately for Junior, Mario won't give up those keys easily, and dangerous snapjaws, nitpickers, and sparks will attack him along the way. Will Junior be able to help his father...? That all depends on you!"
+      "story": "Poor Donkey Kong™ has been captured by Mario™ and now finds himself locked up in a cage! It's up to Donkey Kong's son, Junior, to rescue him by snatching the keys to the cage away from Mario. Unfortunately for Junior, Mario won't give up those keys easily, and dangerous snap-jaws, nitpickers, and sparks will attack him along the way. Will Junior be able to help his father...? That all depends on you!"
     }
   },
   {
@@ -111,6 +111,356 @@
     "series": "Education",
     "copy": {
       "description": "Donkey Kong Jr. Math was the third game released in the Donkey Kong series, and the second to feature Donkey Kong Jr. It was released in 1983 for the NES. Donkey Kong will hold up a sign, and Donkey Kong Jr. must find the numbers and math sign to get to that number to get a point."
+    }
+  },
+  {
+    "name": "Duck Hunt",
+    "released": {
+      "US": "",
+      "JPN": "",
+      "EUR": ""
+    },
+    "developers": [],
+    "publishers": [],
+    "series": "",
+    "copy": {
+      "description": ""
+    }
+  },
+  {
+    "name": "Excitebike",
+    "released": {
+      "US": "",
+      "JPN": "",
+      "EUR": ""
+    },
+    "developers": [],
+    "publishers": [],
+    "series": "",
+    "copy": {
+      "description": ""
+    }
+  },
+  {
+    "name": "Golf",
+    "released": {
+      "US": "",
+      "JPN": "",
+      "EUR": ""
+    },
+    "developers": [],
+    "publishers": [],
+    "series": "",
+    "copy": {
+      "description": ""
+    }
+  },
+  {
+    "name": "Gumshoe",
+    "released": {
+      "US": "",
+      "JPN": "",
+      "EUR": ""
+    },
+    "developers": [],
+    "publishers": [],
+    "series": "",
+    "copy": {
+      "description": ""
+    }
+  },
+  {
+    "name": "Gyromite",
+    "released": {
+      "US": "",
+      "JPN": "",
+      "EUR": ""
+    },
+    "developers": [],
+    "publishers": [],
+    "series": "",
+    "copy": {
+      "description": ""
+    }
+  },
+  {
+    "name": "Hogan’s Alley",
+    "released": {
+      "US": "",
+      "JPN": "",
+      "EUR": ""
+    },
+    "developers": [],
+    "publishers": [],
+    "series": "",
+    "copy": {
+      "description": ""
+    }
+  },
+  {
+    "name": "Ice Climber",
+    "released": {
+      "US": "",
+      "JPN": "",
+      "EUR": ""
+    },
+    "developers": [],
+    "publishers": [],
+    "series": "",
+    "copy": {
+      "description": ""
+    }
+  },
+  {
+    "name": "Kid Icarus",
+    "released": {
+      "US": "",
+      "JPN": "",
+      "EUR": ""
+    },
+    "developers": [],
+    "publishers": [],
+    "series": "",
+    "copy": {
+      "description": ""
+    }
+  },
+  {
+    "name": "Kung Fu",
+    "released": {
+      "US": "",
+      "JPN": "",
+      "EUR": ""
+    },
+    "developers": [],
+    "publishers": [],
+    "series": "",
+    "copy": {
+      "description": ""
+    }
+  },
+  {
+    "name": "Mach Rider",
+    "released": {
+      "US": "",
+      "JPN": "",
+      "EUR": ""
+    },
+    "developers": [],
+    "publishers": [],
+    "series": "",
+    "copy": {
+      "description": ""
+    }
+  },
+  {
+    "name": "Mario Bros",
+    "released": {
+      "US": "",
+      "JPN": "",
+      "EUR": ""
+    },
+    "developers": [],
+    "publishers": [],
+    "series": "",
+    "copy": {
+      "description": ""
+    }
+  },
+  {
+    "name": "Metroid",
+    "released": {
+      "US": "",
+      "JPN": "",
+      "EUR": ""
+    },
+    "developers": [],
+    "publishers": [],
+    "series": "",
+    "copy": {
+      "description": ""
+    }
+  },
+  {
+    "name": "Pinball",
+    "released": {
+      "US": "",
+      "JPN": "",
+      "EUR": ""
+    },
+    "developers": [],
+    "publishers": [],
+    "series": "",
+    "copy": {
+      "description": ""
+    }
+  },
+  {
+    "name": "Popeye",
+    "released": {
+      "US": "",
+      "JPN": "",
+      "EUR": ""
+    },
+    "developers": [],
+    "publishers": [],
+    "series": "",
+    "copy": {
+      "description": ""
+    }
+  },
+  {
+    "name": "Pro Wrestling",
+    "released": {
+      "US": "",
+      "JPN": "",
+      "EUR": ""
+    },
+    "developers": [],
+    "publishers": [],
+    "series": "",
+    "copy": {
+      "description": ""
+    }
+  },
+  {
+    "name": "Rad Racer",
+    "released": {
+      "US": "",
+      "JPN": "",
+      "EUR": ""
+    },
+    "developers": [],
+    "publishers": [],
+    "series": "",
+    "copy": {
+      "description": ""
+    }
+  },
+  {
+    "name": "Slalom",
+    "released": {
+      "US": "",
+      "JPN": "",
+      "EUR": ""
+    },
+    "developers": [],
+    "publishers": [],
+    "series": "",
+    "copy": {
+      "description": ""
+    }
+  },
+  {
+    "name": "Soccer",
+    "released": {
+      "US": "",
+      "JPN": "",
+      "EUR": ""
+    },
+    "developers": [],
+    "publishers": [],
+    "series": "",
+    "copy": {
+      "description": ""
+    }
+  },
+  {
+    "name": "StackUp",
+    "released": {
+      "US": "",
+      "JPN": "",
+      "EUR": ""
+    },
+    "developers": [],
+    "publishers": [],
+    "series": "",
+    "copy": {
+      "description": ""
+    }
+  },
+  {
+    "name": "Super Mario Bros",
+    "released": {
+      "US": "",
+      "JPN": "",
+      "EUR": ""
+    },
+    "developers": [],
+    "publishers": [],
+    "series": "",
+    "copy": {
+      "description": ""
+    }
+  },
+  {
+    "name": "Tennis",
+    "released": {
+      "US": "",
+      "JPN": "",
+      "EUR": ""
+    },
+    "developers": [],
+    "publishers": [],
+    "series": "",
+    "copy": {
+      "description": ""
+    }
+  },
+  {
+    "name": "Urban Champion",
+    "released": {
+      "US": "",
+      "JPN": "",
+      "EUR": ""
+    },
+    "developers": [],
+    "publishers": [],
+    "series": "",
+    "copy": {
+      "description": ""
+    }
+  },
+  {
+    "name": "Volleyball",
+    "released": {
+      "US": "",
+      "JPN": "",
+      "EUR": ""
+    },
+    "developers": [],
+    "publishers": [],
+    "series": "",
+    "copy": {
+      "description": ""
+    }
+  },
+  {
+    "name": "Wild Gunman",
+    "released": {
+      "US": "",
+      "JPN": "",
+      "EUR": ""
+    },
+    "developers": [],
+    "publishers": [],
+    "series": "",
+    "copy": {
+      "description": ""
+    }
+  },
+  {
+    "name": " Wrecking Crew",
+    "released": {
+      "US": "",
+      "JPN": "",
+      "EUR": ""
+    },
+    "developers": [],
+    "publishers": [],
+    "series": "",
+    "copy": {
+      "description": ""
     }
   }
 ]

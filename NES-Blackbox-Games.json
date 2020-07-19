@@ -62,7 +62,7 @@
       "JPN": "7-15-1983",
       "EUR": "10-15-1985"
     },
-    "developers": ["Nintendo"],
+    "developers": ["Nintendo R&D2"],
     "publishers": ["Nintendo"],
     "series": "Classic Arcade",
     "copy": {
@@ -82,6 +82,21 @@
     "series": "Classic Arcade",
     "copy": {
       "description": "Donkey Kong 3 is an arcade game that features Donkey Kong and Stanley. Stanley is a bugman that comes to defeat Donkey Kong on the account that he broke into his greenhouse. Stanley will now have to use his bug spray to not only defeat Donkey Kong, but also kill all the bugs that DK let in. This is the first Donkey Kong game that doesn't feature Mario and is the first one not to be a direct platform game, which could have led to its unsuccessful sells. Instead of being a platform game, it was rather a shooting game."
+    }
+  },
+  {
+    "name": "Donkey Kong Jr",
+    "released": {
+      "US": "6-1-1986",
+      "JPN": "7-15-1983",
+      "EUR": "6-15-1987"
+    },
+    "developers": ["Nintendo R&D2"],
+    "publishers": ["Nintendo"],
+    "series": "Classic Arcade",
+    "copy": {
+      "description": "Donkey Kong Jr., also spelled Donkey Kong Junior in early arcade releases and home ports, is an arcade game starring Donkey Kong Jr. It is the direct sequel to Donkey Kong, and it and the similar Donkey Kong II, as well as Donkey Kong Circus are the only games in the Mario franchise where Mario is the antagonist.",
+      "story": "Poor Donkey Kong™ has been captured by Mario™ and now finds himself locked up in a cage! It's up to Donkey Kong's son, Junior, to rescue him by snatching the keys to the cage away from Mario. Unfortunately for Junior, Mario won't give up those keys easily, and dangerous snapjaws, nitpickers, and sparks will attack him along the way. Will Junior be able to help his father...? That all depends on you!"
     }
   }
 ]

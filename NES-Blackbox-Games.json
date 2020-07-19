@@ -116,43 +116,43 @@
   {
     "name": "Duck Hunt",
     "released": {
-      "US": "",
-      "JPN": "",
-      "EUR": ""
+      "US": "10-18-1985",
+      "JPN": "4-21-1984",
+      "EUR": "8-15-1987"
     },
-    "developers": [],
-    "publishers": [],
-    "series": "",
+    "developers": ["Nintendo R&D1"],
+    "publishers": ["Nintendo"],
+    "series": "Light Gun",
     "copy": {
-      "description": ""
+      "description": "Your trusty hunting dog wades into the marshes to flush out your prey. Your fingers tighten around your Zapper™ light gun. Suddenly, there's a duck in the air! You've only got three shots to bag this duck, and if you miss, even your dog laughs at you! But become a sharp-shooter, and you'll progress to the next round where two ducks fly up at the same time. And then you're on to the ultimate challenge: Clay Shooting. Where you'll compete in a wild clay-pigeon shooting contest! Play DUCK HUNT and discover that you can have lots of laughs and be challenged at the same time."
     }
   },
   {
     "name": "Excitebike",
     "released": {
-      "US": "",
-      "JPN": "",
-      "EUR": ""
+      "US": "10-1-1985",
+      "JPN": "11-30-1984",
+      "EUR": "1-1-1986"
     },
-    "developers": [],
-    "publishers": [],
-    "series": "",
+    "developers": ["Nintendo"],
+    "publishers": ["Nintendo"],
+    "series": "Programmable",
     "copy": {
-      "description": ""
+      "description": "In Excitebike, players control a motorcyclist and race for the best ranking against other opponents. The player can choose to speed up (Turbo mode), however, using it too much can cause the bike to overheat. The courses feature slopes in which players can control the direction of the bike before it lands. If at a bad angle, the bike will crash; wasting valuable time. If the player ends up with a rank too low, they will be disqualified."
     }
   },
   {
     "name": "Golf",
     "released": {
-      "US": "",
-      "JPN": "",
-      "EUR": ""
+      "US": "10-18-1985",
+      "JPN": "5-1-1984",
+      "EUR": "11-15-1986"
     },
-    "developers": [],
-    "publishers": [],
-    "series": "",
+    "developers": ["Nintendo R&D2"],
+    "publishers": ["Nintendo"],
+    "series": "Sports",
     "copy": {
-      "description": ""
+      "description": "Golf is a game for the NES released in 1984. It is based on the sport of the same name. It was also ported to the Nintendo PlayChoice-10. The golfer has been identified as Mario in supplemental material, albeit not wearing his traditional shirt and overalls. However, the game Captain Rainbow would instead identify the golfer as Ossan, which happens to be a generic internal name Mario had during the development of Donkey Kong. Additionally, the Game Boy conversion of this game would feature Mario on the Western cover art, but not the Japanese version."
     }
   },
   {

@@ -98,5 +98,19 @@
       "description": "Donkey Kong Jr., also spelled Donkey Kong Junior in early arcade releases and home ports, is an arcade game starring Donkey Kong Jr. It is the direct sequel to Donkey Kong, and it and the similar Donkey Kong II, as well as Donkey Kong Circus are the only games in the Mario franchise where Mario is the antagonist.",
       "story": "Poor Donkey Kong™ has been captured by Mario™ and now finds himself locked up in a cage! It's up to Donkey Kong's son, Junior, to rescue him by snatching the keys to the cage away from Mario. Unfortunately for Junior, Mario won't give up those keys easily, and dangerous snapjaws, nitpickers, and sparks will attack him along the way. Will Junior be able to help his father...? That all depends on you!"
     }
+  },
+  {
+    "name": "Donkey Kong Jr Math",
+    "released": {
+      "US": "6-1-1986",
+      "JPN": "12-12-1983",
+      "EUR": "7-10-1986"
+    },
+    "developers": ["Nintendo R&D2"],
+    "publishers": ["Nintendo"],
+    "series": "Education",
+    "copy": {
+      "description": "Donkey Kong Jr. Math was the third game released in the Donkey Kong series, and the second to feature Donkey Kong Jr. It was released in 1983 for the NES. Donkey Kong will hold up a sign, and Donkey Kong Jr. must find the numbers and math sign to get to that number to get a point."
+    }
   }
 ]

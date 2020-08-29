@@ -187,29 +187,29 @@
   {
     "name": "Hogan’s Alley",
     "released": {
-      "US": "",
-      "JPN": "",
-      "EUR": ""
+      "US": "10-18-1985",
+      "JPN": "6-12-1984",
+      "EUR": "12-15-1987"
     },
-    "developers": [],
-    "publishers": [],
-    "series": "",
+    "developers": ["Nintendo R&D1", "Intelligent Systems"],
+    "publishers": ["Nintendo"],
+    "series": "Light Gun",
     "copy": {
-      "description": ""
+      "description": "Players shoot fake cardboard people on the screen, if the criminal is shot, the player continues, and if the police or citizens are shot, the player is penalized. Should a criminal not be shot, the player will also be penalized. Should there be too many penalties, the game is over. "
     }
   },
   {
     "name": "Ice Climber",
     "released": {
-      "US": "",
-      "JPN": "",
-      "EUR": ""
+      "US": "10-18-1985",
+      "JPN": "1-30-1985",
+      "EUR": "9-1-1986"
     },
-    "developers": [],
-    "publishers": [],
-    "series": "",
+    "developers": ["Nintendo R&D1"],
+    "publishers": ["Nintendo"],
+    "series": "Action",
     "copy": {
-      "description": ""
+      "description": "Two kids, the Ice Climbers, Popo, and Nana, climb to the top of an icy mountain filled with enemies such as Topis and Polar Bears to stop the evil condor at the top. The player wields a hammer to both kill enemies, and to make openings on the platform above."
     }
   },
   {

@@ -158,29 +158,30 @@
   {
     "name": "Gumshoe",
     "released": {
-      "US": "",
+      "US": "6-6-1986",
       "JPN": "",
-      "EUR": ""
+      "EUR": "6-15-1988"
     },
-    "developers": [],
-    "publishers": [],
-    "series": "",
+    "developers": ["Nintendo R&D1"],
+    "publishers": ["Nintendo"],
+    "series": "Light Gun",
     "copy": {
-      "description": ""
+      "description": "Classic NES platformer in which the game continuously scrolls to the right. Players must use the NES Zapper accessory to make the character (Gumshoe) avoid obstacles and reach platforms. The Zapper can also be used to shoot enemies in the path.",
+      "story": "Mr. Stevenson is an ex-FBI agent turned detective. He receives a ransom note from a mafia boss, King Dom, who has kidnapped Stevenson's daughter, Jennifer. Stevenson must collect five 'Black Panther Diamonds' within 24 hours in order to see his daughter again."
     }
   },
   {
     "name": "Gyromite",
     "released": {
-      "US": "",
-      "JPN": "",
-      "EUR": ""
+      "US": "10-18-1985",
+      "JPN": "8-13-1985",
+      "EUR": "9-1-1986"
     },
-    "developers": [],
-    "publishers": [],
-    "series": "",
+    "developers": ["Nintendo R&D1"],
+    "publishers": ["Nintendo"],
+    "series": "Robot Series",
     "copy": {
-      "description": ""
+      "description": "Professor Hector, a somewhat aged scientist, must traverse his expansive laboratory in order to collect and defuse the dynamite which is scattered across his lab. This game is one of the only two games that had support for the R.O.B., with the other game being Stack-Up."
     }
   },
   {

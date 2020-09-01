@@ -215,29 +215,31 @@
   {
     "name": "Kid Icarus",
     "released": {
-      "US": "",
-      "JPN": "",
-      "EUR": ""
+      "US": "7-1-1987",
+      "JPN": "12-19-1986",
+      "EUR": "2-15-1987"
     },
-    "developers": [],
-    "publishers": [],
-    "series": "",
+    "developers": ["Nintendo R&D1", "TOSE"],
+    "publishers": ["Nintendo"],
+    "series": "Adventur",
     "copy": {
-      "description": ""
+      "description": "The player controls Pit through two-dimensional levels while fighting evil creatures and collecting items. Their objective is to find and defeat monsters that guard the three treasures.",
+      "story": "Kid Icarus is set in the fantasy world known as Angel Land and revolves around Pit, an angel, and his quest for Three Sacred Treasures which he must equip to destroy the evil goddess of darkness Medusa and liberate the goddess of light and rightful ruler of Angel Land Palutena."
     }
   },
   {
     "name": "Kung Fu",
     "released": {
-      "US": "",
-      "JPN": "",
-      "EUR": ""
+      "US": "10-1-1985",
+      "JPN": "6-21-1985",
+      "EUR": "4-15-1987"
     },
-    "developers": [],
-    "publishers": [],
-    "series": "",
+    "developers": ["Nintendo"],
+    "publishers": ["Nintendo"],
+    "series": "Action",
     "copy": {
-      "description": ""
+      "story": "One day, a kung-fu master, Thomas, and his girlfriend, Silvia, are attacked by a gang of mysteriously men. While Thomas is trying to fight off the people in front of him, more come from the back, capture Silvia and then all of them take off. Thomas follows X's instructions and immediately shows up at the temple. There he must fight through 5 floors, each with an array of enemies, obstacles, and a boss at the end, until he reaches the 6th floor, in which he must fight Mr. X himself to free Silvia.",
+      "description": "Players go through a sidescrolling level and can traverse upwards and downwards at the same time. Punches are the most powerful type of attack, though kicks have much better range. If the player character, Thomas, is attacked by an opponent, his health will subsequently start to decrease. Attacking them with your variety of attacks will cause them to eventually be defeated. At the end of each stage is a boss in which the player most defeat in order to progress. In all there are five bosses. Once all of the bosses have been defeated, the player will then start the game over, though it'll be more challenging the second time around."
     }
   },
   {

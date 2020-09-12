@@ -245,29 +245,29 @@
   {
     "name": "Mach Rider",
     "released": {
-      "US": "",
-      "JPN": "",
-      "EUR": ""
+      "US": "10-18-1985",
+      "JPN": "11-21-1985",
+      "EUR": "3-15-1987"
     },
-    "developers": [],
-    "publishers": [],
-    "series": "",
+    "developers": ["Nintendo R&D2"],
+    "publishers": ["Nintendo"],
+    "series": "Programmable",
     "copy": {
-      "description": ""
+      "description": "Mach Rider takes place in the year 2112 when the earth has been invaded by evil forces. In the game, the Mach Rider drives a motorcycle, the Mach Bike, while destroying all the enemies in his way."
     }
   },
   {
     "name": "Mario Bros",
     "released": {
-      "US": "",
-      "JPN": "",
-      "EUR": ""
+      "US": "6-23-1986",
+      "JPN": "9-9-1983",
+      "EUR": "9-1-1986"
     },
-    "developers": [],
-    "publishers": [],
-    "series": "",
+    "developers": ["Nintendo"],
+    "publishers": ["Nintendo"],
+    "series": "Arcade",
     "copy": {
-      "description": ""
+      "description": "In Mario Bros., the player will take control of Mario. Luigi is also available as a playable character to a second player who wishes to work competitively or cooperatively alongside another player. There are various stages in Mario Bros., and in each one the ultimate goal is to eliminate the threat of pesky critters that have been infiltrating New York's sewers."
     }
   },
   {

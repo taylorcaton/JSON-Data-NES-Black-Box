@@ -273,29 +273,30 @@
   {
     "name": "Metroid",
     "released": {
-      "US": "",
-      "JPN": "",
-      "EUR": ""
+      "US": "8-13-1987",
+      "JPN": "8-6-1986",
+      "EUR": "1-15-1988"
     },
-    "developers": [],
-    "publishers": [],
-    "series": "",
+    "developers": ["Nintendo R&D1"],
+    "publishers": ["Nintendo"],
+    "series": "Adventure",
     "copy": {
-      "description": ""
+      "description": "The basic gameplay is a mix of action adventure and platform shooter. The player begins with a very limited amount of power-ups, but must always use their ingenuity to achieve the next 'locked' or unreachable area.",
+      "story": "In the year 20X5, the Space Pirates attack a Galactic Federation-owned space research vessel and seize samples of Metroid creatures—the parasitic lifeforms discovered on the planet SR388. While searching for the stolen Metroids, the Galactic Federation locates the Space Pirates' base of operations on the planet Zebes. The Federation decides to send a lone bounty hunter to penetrate the Pirates' base and destroy Mother Brain, the biomechanical life-form that controls the Space Pirates' fortress and its defenses. Considered the greatest of all bounty hunters, Samus Aran is chosen for the mission."
     }
   },
   {
     "name": "Pinball",
     "released": {
-      "US": "",
-      "JPN": "",
-      "EUR": ""
+      "US": "10-18-1985",
+      "JPN": "2-2-1984",
+      "EUR": "9-1-1986"
     },
-    "developers": [],
-    "publishers": [],
-    "series": "",
+    "developers": ["Nintendo R&D1"],
+    "publishers": ["Nintendo"],
+    "series": "Action",
     "copy": {
-      "description": ""
+      "description": "Pinball is a game where the player controls the paddles of a virtual pinball machine. The game has two screens to represent the traditional pinball table and one for a bonus mode."
     }
   },
   {

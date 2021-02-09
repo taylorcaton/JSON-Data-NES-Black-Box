@@ -26,7 +26,7 @@ Sample Array Object
 
 Games included:
 
-```
+```text
 10 Yard Fight
 Balloon Fight
 Baseball

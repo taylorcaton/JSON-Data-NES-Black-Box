@@ -292,7 +292,7 @@
       "JPN": "2-2-1984",
       "EUR": "9-1-1986"
     },
-    "developers": ["Nintendo R&D1"],
+    "developers": ["Nintendo R&D1", "Intelligent Systems"],
     "publishers": ["Nintendo"],
     "series": "Action",
     "copy": {
@@ -302,15 +302,15 @@
   {
     "name": "Popeye",
     "released": {
-      "US": "",
-      "JPN": "",
-      "EUR": ""
+      "US": "6-1-1986",
+      "JPN": "7-15-1983",
+      "EUR": "9-1-1986"
     },
-    "developers": [],
-    "publishers": [],
-    "series": "",
+    "developers": ["Nintendo R&D1"],
+    "publishers": ["Nintendo", "Parker Brothers"],
+    "series": "Arcade",
     "copy": {
-      "description": ""
+      "description": "The object of the game is for Popeye the Sailor to collect a certain number of items dropped by Olive Oyl, depending on the level — 24 hearts, 16 musical notes, or 24 letters in the word HELP — while avoiding the Sea Hag, Brutus and other dangers."
     }
   },
   {

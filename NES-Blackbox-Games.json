@@ -316,29 +316,29 @@
   {
     "name": "Pro Wrestling",
     "released": {
-      "US": "",
-      "JPN": "",
-      "EUR": ""
+      "US": "3-1-1987",
+      "JPN": "10-21-1986",
+      "EUR": "10-15-1987"
     },
-    "developers": [],
-    "publishers": [],
-    "series": "",
+    "developers": ["Nintendo R&D3"],
+    "publishers": ["Nintendo"],
+    "series": "Sports",
     "copy": {
-      "description": ""
+      "description": "Pro Wrestling was the first wrestling game on the console and was both published and developed by Nintendo. In all there are seven distinct characters the player can chose from, each with their own special abilities."
     }
   },
   {
     "name": "Rad Racer",
     "released": {
-      "US": "",
-      "JPN": "",
-      "EUR": ""
+      "US": "10-1-1987",
+      "JPN": "8-7-1987",
+      "EUR": "1-15-1988"
     },
-    "developers": [],
-    "publishers": [],
-    "series": "",
+    "developers": ["Square"],
+    "publishers": ["Nintendo", "Square", "Mattel"],
+    "series": "Sports",
     "copy": {
-      "description": ""
+      "description": "Released as Highway Star in Japan, is a racing video game developed and published by Square for the Nintendo Entertainment System (NES) in 1987. In this game, players drive a Ferrari 328 or a generic Formula One racing machine through a racecourse."
     }
   },
   {

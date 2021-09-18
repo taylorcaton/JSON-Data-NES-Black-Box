@@ -349,7 +349,7 @@
       "EUR": "10-15-1987"
     },
     "developers": ["Rare"],
-    "publishers": [],
+    "publishers": ["Nintendo"],
     "series": "Sports",
     "copy": {
       "description": "A skiing game developed by Rare and published by Nintendo. The game was one of Rare's earliest efforts in video games. You'll control a skier who must race down a mountain, dodging obstacles and hitting goals, within the given time. In all there are 24 courses. Your primary goal is to be on the right side of the Slalom flags, as going on the wrong side will cause you to tumble."
@@ -358,15 +358,15 @@
   {
     "name": "Soccer",
     "released": {
-      "US": "",
-      "JPN": "",
-      "EUR": ""
+      "US": "3-1-1987",
+      "JPN": "4-9-1985",
+      "EUR": "1-5-1987"
     },
-    "developers": [],
-    "publishers": [],
-    "series": "",
+    "developers": ["Nintendo"],
+    "publishers": ["Nintendo"],
+    "series": "Sports",
     "copy": {
-      "description": ""
+      "description": "A simple Soccer game where the player controls a team and try to score more points than the opponent by kicking a ball into the opponents goal."
     }
   },
   {

@@ -344,15 +344,15 @@
   {
     "name": "Slalom",
     "released": {
-      "US": "",
+      "US": "8-1-1987",
       "JPN": "",
-      "EUR": ""
+      "EUR": "10-15-1987"
     },
-    "developers": [],
+    "developers": ["Rare"],
     "publishers": [],
-    "series": "",
+    "series": "Sports",
     "copy": {
-      "description": ""
+      "description": "A skiing game developed by Rare and published by Nintendo. The game was one of Rare's earliest efforts in video games. You'll control a skier who must race down a mountain, dodging obstacles and hitting goals, within the given time. In all there are 24 courses. Your primary goal is to be on the right side of the Slalom flags, as going on the wrong side will cause you to tumble."
     }
   },
   {

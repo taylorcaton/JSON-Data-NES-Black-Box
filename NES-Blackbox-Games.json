@@ -401,29 +401,29 @@
   {
     "name": "Tennis",
     "released": {
-      "US": "",
-      "JPN": "",
-      "EUR": ""
+      "US": "10-18-1985",
+      "JPN": "1-14-1984",
+      "EUR": "09-1-1986"
     },
-    "developers": [],
-    "publishers": [],
-    "series": "",
+    "developers": ["Nintendo R&D1"],
+    "publishers": ["Nintendo"],
+    "series": "Sports",
     "copy": {
-      "description": ""
+      "description": "Tennis gives one or two players the chance to compete against opponents on five different challenge modes. Mario guest stars as the umpire, making the appropriate calls when needed. "
     }
   },
   {
     "name": "Urban Champion",
     "released": {
-      "US": "",
-      "JPN": "",
-      "EUR": ""
+      "US": "08-1-1986",
+      "JPN": "11-14-1984",
+      "EUR": "1-1-1986"
     },
-    "developers": [],
-    "publishers": [],
-    "series": "",
+    "developers": ["Nintendo R&D1"],
+    "publishers": ["Nintendo"],
+    "series": "Action",
     "copy": {
-      "description": ""
+      "description": "The game places you in a small town as you try to punch your enemy into a sewer."
     }
   },
   {

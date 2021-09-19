@@ -179,7 +179,7 @@
     },
     "developers": ["Nintendo R&D1"],
     "publishers": ["Nintendo"],
-    "series": "Robot Series",
+    "series": "Robot",
     "copy": {
       "description": "Professor Hector, a somewhat aged scientist, must traverse his expansive laboratory in order to collect and defuse the dynamite which is scattered across his lab. This game is one of the only two games that had support for the R.O.B., with the other game being Stack-Up."
     }
@@ -372,29 +372,30 @@
   {
     "name": "StackUp",
     "released": {
-      "US": "",
-      "JPN": "",
-      "EUR": ""
+      "US": "10-18-1985",
+      "JPN": "7-26-1985",
+      "EUR": "1-1-1985"
     },
-    "developers": [],
-    "publishers": [],
-    "series": "",
+    "developers": ["Nintendo R&D1"],
+    "publishers": ["Nintendo"],
+    "series": "Robot",
     "copy": {
-      "description": ""
+      "description": "Set up R.O.B. with the colored discs included in the game and then control his movements in the game by using Professor Hector to jump onto various blocks. The blocks represent commands given to R.O.B. in sequence."
     }
   },
   {
     "name": "Super Mario Bros",
     "released": {
-      "US": "",
-      "JPN": "",
-      "EUR": ""
+      "US": "10-1-1985",
+      "JPN": "9-13-1985",
+      "EUR": "5-15-1987"
     },
-    "developers": [],
-    "publishers": [],
-    "series": "",
+    "developers": ["Nintendo R&D4"],
+    "publishers": ["Nintendo"],
+    "series": "Action",
     "copy": {
-      "description": ""
+      "description": "A 2D sidescrolling platform game in which players play as Mario to traverse through levels by running or jumping. The object of each stage is to get to the flagpole at the end and clear the level. The game features eight worlds with four stages each, ending with a boss battle with a fake Bowser and Toad stating that the princess isn't in the castle.",
+      "story": "One day, the king of the Koopas Bowser invades the peaceful Mushroom Kingdom and turns the inhabitants into stones, bricks and plants. The only one who is able to undo the black magic of the Koopas is Princess Toadstool, who was captured by Bowser and imprisons her in the last of his eight castles. The Mario Bros. hear about what happened and set out to free the princess, defeat Bowser and restore order to the Mushroom Kingdom"
     }
   },
   {

@@ -429,15 +429,15 @@
   {
     "name": "Volleyball",
     "released": {
-      "US": "",
-      "JPN": "",
-      "EUR": ""
+      "US": "3-1-1987",
+      "JPN": "7-21-1986",
+      "EUR": "11-16-1987"
     },
-    "developers": [],
-    "publishers": [],
-    "series": "",
+    "developers": ["Nintendo R&D1", "Pax Softnica"],
+    "publishers": ["Nintendo"],
+    "series": "Sports",
     "copy": {
-      "description": ""
+      "description": "Based off the popular sport of the same name, Volleyball enables the player to choose the amount of people on their team, their country and their gender. The countries include the United States, China, Japan, South Korea, Brazil, Cuba, Russia (USR), and Tunisia."
     }
   },
   {

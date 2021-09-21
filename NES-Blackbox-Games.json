@@ -443,29 +443,29 @@
   {
     "name": "Wild Gunman",
     "released": {
-      "US": "",
-      "JPN": "",
-      "EUR": ""
+      "US": "02-18-1985",
+      "JPN": "02-18-1984",
+      "EUR": "02-15-1988"
     },
-    "developers": [],
-    "publishers": [],
-    "series": "",
+    "developers": ["Nintendo R&D1"],
+    "publishers": ["Nintendo"],
+    "series": "Light Gun",
     "copy": {
-      "description": ""
+      "description": "The player waits for the opponent's eyes to flash (accompanied by a speech bubble reading \"FIRE!!\") before shooting. It features a shooting gallery where opponents are to be shot from the windows of a saloon."
     }
   },
   {
     "name": " Wrecking Crew",
     "released": {
-      "US": "",
-      "JPN": "",
-      "EUR": ""
+      "US": "10-18-1985",
+      "JPN": "06-18-1985",
+      "EUR": "10-15-1987"
     },
-    "developers": [],
-    "publishers": [],
-    "series": "",
+    "developers": ["Nintendo R&D1"],
+    "publishers": ["Nintendo"],
+    "series": "Programmable",
     "copy": {
-      "description": ""
+      "description": "The player controls Mario and attempts to destroy all of a certain set of objects with a large hammer on each of 100 levels."
     }
   }
 ]

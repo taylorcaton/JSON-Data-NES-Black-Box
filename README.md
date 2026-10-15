@@ -4,7 +4,7 @@
 
 Sample JSON data to use with your projects: the original Nintendo Entertainment System "black box" games, in [`NES-Blackbox-Games.json`](NES-Blackbox-Games.json).
 
-30 of the 33 games are black box titles. Kid Icarus, Metroid and Rad Racer are included as well, but flagged `"blackBox": false` (they came in silver boxes).
+30 of the 33 games are black box titles. Kid Icarus, Metroid and Rad Racer are flagged `"blackBox": false`: they are silver-box releases, but their covers use the same sprite-art style as the black box games, which is why the collection includes them.
 
 Sample Array Object
 
@@ -112,4 +112,6 @@ Release dates, names, player counts and box details were checked against:
 - NES Wiki (Fandom), [Nintendo Entertainment System Launch Titles](https://nes.fandom.com/wiki/Nintendo_Entertainment_System_Launch_Titles)
 - The Stack-Up instruction manual, [NESWorld](https://www.nesworld.com/manuals/rob/stackup.htm)
 - StrategyWiki, [Gyromite](https://strategywiki.org/wiki/Gyromite)
+- Wikipedia, [Volleyball (video game)](https://en.wikipedia.org/wiki/Volleyball_(video_game))
+- The Kyoto Report, [Volleyball](http://kyoto-report.wikidot.com/volleyball) (staff credits: produced by Nintendo R&D4/EAD, with Shigeru Miyamoto producing and Koji Kondo on sound; Pax Softnica's Tomoshige Hashishita on planning and programming)
 - The series labels on physical boxes

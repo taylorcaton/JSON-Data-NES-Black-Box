@@ -620,9 +620,10 @@
     "released": {
       "US": "6-1-1986",
       "JPN": "11-14-1984",
-      "EUR": "1986"
+      "EUR": "1-1-1986"
     },
     "releasedPrecision": "month",
+    "releasedPrecisionEUR": "year",
     "developers": ["Nintendo R&D1"],
     "publishers": ["Nintendo"],
     "series": "Action",

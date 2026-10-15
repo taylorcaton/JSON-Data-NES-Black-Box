@@ -41,6 +41,7 @@ Sample Array Object
 | `blackBox` | boolean | `true` for the black box titles; `false` for Kid Icarus, Metroid and Rad Racer. |
 | `released` | object | Release dates for `US`, `JPN` and `EUR` (see the date convention below). |
 | `releasedPrecision` | `"day"` or `"month"` | How precise the **US** date is. |
+| `releasedPrecisionEUR` | `"year"` (optional) | How precise the **EUR** date is. Omitted when the EUR date is exact or unknown. |
 | `confidence` | `"likely"` or `"disputed"` (optional) | Present only when the US date is debated: `"likely"` means the date follows the weight of the sources, `"disputed"` that reliable sources disagree. |
 | `developers`, `publishers` | string array | |
 | `series` | string | The series named on the box banner, e.g. `"Arcade Classics"` for "ARCADE CLASSICS SERIES". |
@@ -52,7 +53,7 @@ Sample Array Object
 - Dates are `"M-D-YYYY"` strings with no zero padding, e.g. `"10-18-1985"`, `"6-1-1986"`.
 - An empty string, `""`, means the date is unknown.
 - When only the month of the US release is known, the date is the 1st of that month and `releasedPrecision` is `"month"`. For example, Donkey Kong's `"6-1-1986"` means June 1986.
-- One regional date is known only to the year: Urban Champion's European release is `"1986"`.
+- When only the year of the EUR release is known, the date is January 1 of that year and `releasedPrecisionEUR` is `"year"`. For example, Urban Champion's EUR `"1-1-1986"` means 1986.
 
 ### Players
 

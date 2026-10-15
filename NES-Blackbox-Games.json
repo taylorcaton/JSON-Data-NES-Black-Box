@@ -1,70 +1,105 @@
 [
   {
-    "name": "10 Yard Fight",
+    "name": "10-Yard Fight",
+    "blackBox": true,
     "released": {
       "US": "10-18-1985",
       "JPN": "",
       "EUR": ""
     },
+    "releasedPrecision": "day",
     "developers": ["Nintendo R&D1"],
     "publishers": ["Nintendo"],
     "series": "Sports",
+    "players": {
+      "min": 1,
+      "max": 2,
+      "mode": "versus"
+    },
     "copy": {
       "description": "10-Yard Fight is a 1-2 player football game and one of the first NES games released in North America.  It was developed by Nintendo R&D1 and published by Nintendo in North America. It was first released in Japan on August 30, 1983. It was then subsequently released in the Americas and Europe on October 18th and December 6th, 1985, respectively."
     }
   },
   {
     "name": "Balloon Fight",
+    "blackBox": true,
     "released": {
       "US": "6-1-1986",
       "JPN": "1-22-1985",
       "EUR": "12-15-1986"
     },
+    "releasedPrecision": "month",
     "developers": ["Nintendo R&D1"],
     "publishers": ["Nintendo"],
     "series": "Action",
+    "players": {
+      "min": 1,
+      "max": 2,
+      "mode": "simultaneous"
+    },
     "copy": {
       "description": "Balloon Fight is a two player NES game about a Balloon Fighter, who rides to the top with two balloons on his harness, and avoids ducks. There is also a multiplayer version were two Balloon Fighters fight with different weapons attempting to pop their opponents balloons. Also the Balloon Fighter was planned to be fighter in Super Smash Bros Melee, but was plucked out at last minute."
     }
   },
   {
     "name": "Baseball",
+    "blackBox": true,
     "released": {
       "US": "10-18-1985",
       "JPN": "12-7-1983",
       "EUR": "9-1-1986"
     },
+    "releasedPrecision": "day",
     "developers": ["Nintendo R&D1"],
     "publishers": ["Nintendo"],
     "series": "Sports",
+    "players": {
+      "min": 1,
+      "max": 2,
+      "mode": "versus"
+    },
     "copy": {
       "description": "Baseball is a game that was released on the Nintendo Entertainment System and Game Boy based on the popular game of the same name. It is a simple Baseball game that is both developed and published by Nintendo."
     }
   },
   {
     "name": "Clu Clu Land",
+    "blackBox": true,
     "released": {
       "US": "10-18-1985",
       "JPN": "11-22-1984",
       "EUR": "2-15-1987"
     },
+    "releasedPrecision": "day",
     "developers": ["Nintendo R&D1"],
     "publishers": ["Nintendo"],
     "series": "Action",
+    "players": {
+      "min": 1,
+      "max": 2,
+      "mode": "simultaneous"
+    },
     "copy": {
       "description": "Clu Clu Land is a video game released on the NES in 1984. It stars the red, sphere-like protagonist Bubbles, who gets around by grabbing poles, swinging around them, then letting go to change directions."
     }
   },
   {
     "name": "Donkey Kong",
+    "blackBox": true,
     "released": {
       "US": "6-1-1986",
       "JPN": "7-15-1983",
-      "EUR": "10-15-1985"
+      "EUR": "10-15-1986"
     },
+    "releasedPrecision": "month",
     "developers": ["Nintendo R&D2"],
     "publishers": ["Nintendo"],
-    "series": "Classic Arcade",
+    "series": "Arcade Classics",
+    "players": {
+      "min": 1,
+      "max": 2,
+      "mode": "alternating"
+    },
     "copy": {
       "description": "Donkey Kong was a port of the 1981 arcade game of the same name, hailed at the time as the most popular video game.",
       "story": "As the story goes, an escaped ape known as Donkey Kong has kidnapped a woman named Pauline, and takes her to a construction site. With Pauline's boyfriend, Mario, in pursuit after she yells in help for him, Donkey Kong uses his surroundings to try to stop Mario from saving his girlfriend. Along the way, Mario also finds tools and items of which can help him on his journey upwards."
@@ -72,99 +107,148 @@
   },
   {
     "name": "Donkey Kong 3",
+    "blackBox": true,
     "released": {
-      "US": "6-15-1986",
+      "US": "6-1-1986",
       "JPN": "7-4-1984",
       "EUR": "9-15-1987"
     },
+    "releasedPrecision": "month",
     "developers": ["Nintendo"],
     "publishers": ["Nintendo"],
-    "series": "Classic Arcade",
+    "series": "Arcade Classics",
+    "players": {
+      "min": 1,
+      "max": 2,
+      "mode": "alternating"
+    },
     "copy": {
       "description": "Donkey Kong 3 is an arcade game that features Donkey Kong and Stanley. Stanley is a bugman that comes to defeat Donkey Kong on the account that he broke into his greenhouse. Stanley will now have to use his bug spray to not only defeat Donkey Kong, but also kill all the bugs that DK let in. This is the first Donkey Kong game that doesn't feature Mario and is the first one not to be a direct platform game, which could have led to its unsuccessful sells. Instead of being a platform game, it was rather a shooting game."
     }
   },
   {
-    "name": "Donkey Kong Jr",
+    "name": "Donkey Kong Jr.",
+    "blackBox": true,
     "released": {
       "US": "6-1-1986",
       "JPN": "7-15-1983",
       "EUR": "6-15-1987"
     },
+    "releasedPrecision": "month",
     "developers": ["Nintendo R&D2"],
     "publishers": ["Nintendo"],
-    "series": "Classic Arcade",
+    "series": "Arcade Classics",
+    "players": {
+      "min": 1,
+      "max": 2,
+      "mode": "alternating"
+    },
     "copy": {
       "description": "Donkey Kong Jr., also spelled Donkey Kong Junior in early arcade releases and home ports, is an arcade game starring Donkey Kong Jr. It is the direct sequel to Donkey Kong, and it and the similar Donkey Kong II, as well as Donkey Kong Circus are the only games in the Mario franchise where Mario is the antagonist.",
       "story": "Poor Donkey Kong™ has been captured by Mario™ and now finds himself locked up in a cage! It's up to Donkey Kong's son, Junior, to rescue him by snatching the keys to the cage away from Mario. Unfortunately for Junior, Mario won't give up those keys easily, and dangerous snap-jaws, nitpickers, and sparks will attack him along the way. Will Junior be able to help his father...? That all depends on you!"
     }
   },
   {
-    "name": "Donkey Kong Jr Math",
+    "name": "Donkey Kong Jr. Math",
+    "blackBox": true,
     "released": {
       "US": "6-1-1986",
       "JPN": "12-12-1983",
       "EUR": "7-10-1986"
     },
+    "releasedPrecision": "month",
+    "confidence": "disputed",
     "developers": ["Nintendo R&D2"],
     "publishers": ["Nintendo"],
     "series": "Education",
+    "players": {
+      "min": 1,
+      "max": 2,
+      "mode": "versus"
+    },
     "copy": {
       "description": "Donkey Kong Jr. Math was the third game released in the Donkey Kong series, and the second to feature Donkey Kong Jr. It was released in 1983 for the NES. Donkey Kong will hold up a sign, and Donkey Kong Jr. must find the numbers and math sign to get to that number to get a point."
     }
   },
   {
     "name": "Duck Hunt",
+    "blackBox": true,
     "released": {
       "US": "10-18-1985",
       "JPN": "4-21-1984",
       "EUR": "8-15-1987"
     },
+    "releasedPrecision": "day",
     "developers": ["Nintendo R&D1"],
     "publishers": ["Nintendo"],
     "series": "Light Gun",
+    "players": {
+      "min": 1,
+      "max": 2,
+      "mode": "special",
+      "note": "Game A only: a second player can fly the duck with controller 2."
+    },
     "copy": {
       "description": "Your trusty hunting dog wades into the marshes to flush out your prey. Your fingers tighten around your Zapper™ light gun. Suddenly, there's a duck in the air! You've only got three shots to bag this duck, and if you miss, even your dog laughs at you! But become a sharp-shooter, and you'll progress to the next round where two ducks fly up at the same time. And then you're on to the ultimate challenge: Clay Shooting. Where you'll compete in a wild clay-pigeon shooting contest! Play DUCK HUNT and discover that you can have lots of laughs and be challenged at the same time."
     }
   },
   {
     "name": "Excitebike",
+    "blackBox": true,
     "released": {
-      "US": "10-1-1985",
+      "US": "10-18-1985",
       "JPN": "11-30-1984",
       "EUR": "1-1-1986"
     },
+    "releasedPrecision": "day",
     "developers": ["Nintendo"],
     "publishers": ["Nintendo"],
     "series": "Programmable",
+    "players": {
+      "min": 1,
+      "max": 1
+    },
     "copy": {
       "description": "In Excitebike, players control a motorcyclist and race for the best ranking against other opponents. The player can choose to speed up (Turbo mode), however, using it too much can cause the bike to overheat. The courses feature slopes in which players can control the direction of the bike before it lands. If at a bad angle, the bike will crash; wasting valuable time. If the player ends up with a rank too low, they will be disqualified."
     }
   },
   {
     "name": "Golf",
+    "blackBox": true,
     "released": {
       "US": "10-18-1985",
       "JPN": "5-1-1984",
       "EUR": "11-15-1986"
     },
+    "releasedPrecision": "day",
     "developers": ["Nintendo R&D2"],
     "publishers": ["Nintendo"],
     "series": "Sports",
+    "players": {
+      "min": 1,
+      "max": 2,
+      "mode": "alternating"
+    },
     "copy": {
       "description": "Golf is a game for the NES released in 1984. It is based on the sport of the same name. It was also ported to the Nintendo PlayChoice-10. The golfer has been identified as Mario in supplemental material, albeit not wearing his traditional shirt and overalls. However, the game Captain Rainbow would instead identify the golfer as Ossan, which happens to be a generic internal name Mario had during the development of Donkey Kong. Additionally, the Game Boy conversion of this game would feature Mario on the Western cover art, but not the Japanese version."
     }
   },
   {
     "name": "Gumshoe",
+    "blackBox": true,
     "released": {
-      "US": "6-6-1986",
+      "US": "8-1-1986",
       "JPN": "",
       "EUR": "6-15-1988"
     },
+    "releasedPrecision": "month",
     "developers": ["Nintendo R&D1"],
     "publishers": ["Nintendo"],
     "series": "Light Gun",
+    "players": {
+      "min": 1,
+      "max": 1
+    },
     "copy": {
       "description": "Classic NES platformer in which the game continuously scrolls to the right. Players must use the NES Zapper accessory to make the character (Gumshoe) avoid obstacles and reach platforms. The Zapper can also be used to shoot enemies in the path.",
       "story": "Mr. Stevenson is an ex-FBI agent turned detective. He receives a ransom note from a mafia boss, King Dom, who has kidnapped Stevenson's daughter, Jennifer. Stevenson must collect five 'Black Panther Diamonds' within 24 hours in order to see his daughter again."
@@ -172,56 +256,83 @@
   },
   {
     "name": "Gyromite",
+    "blackBox": true,
     "released": {
       "US": "10-18-1985",
       "JPN": "8-13-1985",
       "EUR": "9-1-1986"
     },
+    "releasedPrecision": "day",
     "developers": ["Nintendo R&D1"],
     "publishers": ["Nintendo"],
     "series": "Robot",
+    "players": {
+      "min": 1,
+      "max": 2,
+      "mode": "cooperative",
+      "note": "Designed for one player with R.O.B. on controller 2; a second person can work controller 2 instead."
+    },
     "copy": {
       "description": "Professor Hector, a somewhat aged scientist, must traverse his expansive laboratory in order to collect and defuse the dynamite which is scattered across his lab. This game is one of the only two games that had support for the R.O.B., with the other game being Stack-Up."
     }
   },
   {
     "name": "Hogan’s Alley",
+    "blackBox": true,
     "released": {
       "US": "10-18-1985",
       "JPN": "6-12-1984",
       "EUR": "12-15-1987"
     },
+    "releasedPrecision": "day",
     "developers": ["Nintendo R&D1", "Intelligent Systems"],
     "publishers": ["Nintendo"],
     "series": "Light Gun",
+    "players": {
+      "min": 1,
+      "max": 1
+    },
     "copy": {
       "description": "Players shoot fake cardboard people on the screen, if the criminal is shot, the player continues, and if the police or citizens are shot, the player is penalized. Should a criminal not be shot, the player will also be penalized. Should there be too many penalties, the game is over. "
     }
   },
   {
     "name": "Ice Climber",
+    "blackBox": true,
     "released": {
       "US": "10-18-1985",
       "JPN": "1-30-1985",
       "EUR": "9-1-1986"
     },
+    "releasedPrecision": "day",
     "developers": ["Nintendo R&D1"],
     "publishers": ["Nintendo"],
     "series": "Action",
+    "players": {
+      "min": 1,
+      "max": 2,
+      "mode": "simultaneous"
+    },
     "copy": {
       "description": "Two kids, the Ice Climbers, Popo, and Nana, climb to the top of an icy mountain filled with enemies such as Topis and Polar Bears to stop the evil condor at the top. The player wields a hammer to both kill enemies, and to make openings on the platform above."
     }
   },
   {
     "name": "Kid Icarus",
+    "blackBox": false,
     "released": {
       "US": "7-1-1987",
       "JPN": "12-19-1986",
       "EUR": "2-15-1987"
     },
+    "releasedPrecision": "month",
     "developers": ["Nintendo R&D1", "TOSE"],
     "publishers": ["Nintendo"],
     "series": "Adventure",
+    "players": {
+      "min": 1,
+      "max": 1
+    },
     "copy": {
       "description": "The player controls Pit through two-dimensional levels while fighting evil creatures and collecting items. Their objective is to find and defeat monsters that guard the three treasures.",
       "story": "Kid Icarus is set in the fantasy world known as Angel Land and revolves around Pit, an angel, and his quest for Three Sacred Treasures which he must equip to destroy the evil goddess of darkness Medusa and liberate the goddess of light and rightful ruler of Angel Land Palutena."
@@ -229,14 +340,21 @@
   },
   {
     "name": "Kung Fu",
+    "blackBox": true,
     "released": {
-      "US": "10-1-1985",
+      "US": "10-18-1985",
       "JPN": "6-21-1985",
       "EUR": "4-15-1987"
     },
+    "releasedPrecision": "day",
     "developers": ["Nintendo"],
     "publishers": ["Nintendo"],
     "series": "Action",
+    "players": {
+      "min": 1,
+      "max": 2,
+      "mode": "alternating"
+    },
     "copy": {
       "story": "One day, a kung-fu master, Thomas, and his girlfriend, Silvia, are attacked by a gang of mysteriously men. While Thomas is trying to fight off the people in front of him, more come from the back, capture Silvia and then all of them take off. Thomas follows X's instructions and immediately shows up at the temple. There he must fight through 5 floors, each with an array of enemies, obstacles, and a boss at the end, until he reaches the 6th floor, in which he must fight Mr. X himself to free Silvia.",
       "description": "Players go through a side-scrolling level and can traverse upwards and downwards at the same time. Punches are the most powerful type of attack, though kicks have much better range. If the player character, Thomas, is attacked by an opponent, his health will subsequently start to decrease. Attacking them with your variety of attacks will cause them to eventually be defeated. At the end of each stage is a boss in which the player most defeat in order to progress. In all there are five bosses. Once all of the bosses have been defeated, the player will then start the game over, though it'll be more challenging the second time around."
@@ -244,42 +362,61 @@
   },
   {
     "name": "Mach Rider",
+    "blackBox": true,
     "released": {
-      "US": "10-18-1985",
+      "US": "8-1-1986",
       "JPN": "11-21-1985",
       "EUR": "3-15-1987"
     },
+    "releasedPrecision": "month",
     "developers": ["Nintendo R&D2"],
     "publishers": ["Nintendo"],
     "series": "Programmable",
+    "players": {
+      "min": 1,
+      "max": 1
+    },
     "copy": {
       "description": "Mach Rider takes place in the year 2112 when the earth has been invaded by evil forces. In the game, the Mach Rider drives a motorcycle, the Mach Bike, while destroying all the enemies in his way."
     }
   },
   {
-    "name": "Mario Bros",
+    "name": "Mario Bros.",
+    "blackBox": true,
     "released": {
-      "US": "6-23-1986",
+      "US": "6-1-1986",
       "JPN": "9-9-1983",
       "EUR": "9-1-1986"
     },
+    "releasedPrecision": "month",
     "developers": ["Nintendo"],
     "publishers": ["Nintendo"],
-    "series": "Arcade",
+    "series": "Arcade Classics",
+    "players": {
+      "min": 1,
+      "max": 2,
+      "mode": "simultaneous"
+    },
     "copy": {
       "description": "In Mario Bros., the player will take control of Mario. Luigi is also available as a playable character to a second player who wishes to work competitively or cooperatively alongside another player. There are various stages in Mario Bros., and in each one the ultimate goal is to eliminate the threat of pesky critters that have been infiltrating New York's sewers."
     }
   },
   {
     "name": "Metroid",
+    "blackBox": false,
     "released": {
-      "US": "8-13-1987",
+      "US": "8-1-1987",
       "JPN": "8-6-1986",
       "EUR": "1-15-1988"
     },
+    "releasedPrecision": "month",
     "developers": ["Nintendo R&D1"],
     "publishers": ["Nintendo"],
     "series": "Adventure",
+    "players": {
+      "min": 1,
+      "max": 1
+    },
     "copy": {
       "description": "The basic gameplay is a mix of action adventure and platform shooter. The player begins with a very limited amount of power-ups, but must always use their ingenuity to achieve the next 'locked' or unreachable area.",
       "story": "In the year 20X5, the Space Pirates attack a Galactic Federation-owned space research vessel and seize samples of Metroid creatures—the parasitic lifeforms discovered on the planet SR388. While searching for the stolen Metroids, the Galactic Federation locates the Space Pirates' base of operations on the planet Zebes. The Federation decides to send a lone bounty hunter to penetrate the Pirates' base and destroy Mother Brain, the biomechanical life-form that controls the Space Pirates' fortress and its defenses. Considered the greatest of all bounty hunters, Samus Aran is chosen for the mission."
@@ -287,112 +424,169 @@
   },
   {
     "name": "Pinball",
+    "blackBox": true,
     "released": {
       "US": "10-18-1985",
       "JPN": "2-2-1984",
       "EUR": "9-1-1986"
     },
+    "releasedPrecision": "day",
     "developers": ["Nintendo R&D1", "Intelligent Systems"],
     "publishers": ["Nintendo"],
     "series": "Action",
+    "players": {
+      "min": 1,
+      "max": 2,
+      "mode": "alternating"
+    },
     "copy": {
       "description": "Pinball is a game where the player controls the paddles of a virtual pinball machine. The game has two screens to represent the traditional pinball table and one for a bonus mode."
     }
   },
   {
     "name": "Popeye",
+    "blackBox": true,
     "released": {
       "US": "6-1-1986",
       "JPN": "7-15-1983",
       "EUR": "9-1-1986"
     },
+    "releasedPrecision": "month",
     "developers": ["Nintendo R&D1"],
     "publishers": ["Nintendo", "Parker Brothers"],
-    "series": "Arcade",
+    "series": "Arcade Classics",
+    "players": {
+      "min": 1,
+      "max": 2,
+      "mode": "alternating"
+    },
     "copy": {
       "description": "The object of the game is for Popeye the Sailor to collect a certain number of items dropped by Olive Oyl, depending on the level — 24 hearts, 16 musical notes, or 24 letters in the word HELP — while avoiding the Sea Hag, Brutus and other dangers."
     }
   },
   {
     "name": "Pro Wrestling",
+    "blackBox": true,
     "released": {
       "US": "3-1-1987",
       "JPN": "10-21-1986",
       "EUR": "10-15-1987"
     },
+    "releasedPrecision": "month",
     "developers": ["Nintendo R&D3"],
     "publishers": ["Nintendo"],
     "series": "Sports",
+    "players": {
+      "min": 1,
+      "max": 2,
+      "mode": "versus"
+    },
     "copy": {
       "description": "Pro Wrestling was the first wrestling game on the console and was both published and developed by Nintendo. In all there are seven distinct characters the player can chose from, each with their own special abilities."
     }
   },
   {
     "name": "Rad Racer",
+    "blackBox": false,
     "released": {
       "US": "10-1-1987",
       "JPN": "8-7-1987",
       "EUR": "1-15-1988"
     },
+    "releasedPrecision": "month",
     "developers": ["Square"],
     "publishers": ["Nintendo", "Square", "Mattel"],
     "series": "Sports",
+    "players": {
+      "min": 1,
+      "max": 1
+    },
     "copy": {
       "description": "Released as Highway Star in Japan, is a racing video game developed and published by Square for the Nintendo Entertainment System (NES) in 1987. In this game, players drive a Ferrari 328 or a generic Formula One racing machine through a racecourse."
     }
   },
   {
     "name": "Slalom",
+    "blackBox": true,
     "released": {
       "US": "8-1-1987",
       "JPN": "",
       "EUR": "10-15-1987"
     },
+    "releasedPrecision": "month",
     "developers": ["Rare"],
     "publishers": ["Nintendo"],
     "series": "Sports",
+    "players": {
+      "min": 1,
+      "max": 1
+    },
     "copy": {
       "description": "A skiing game developed by Rare and published by Nintendo. The game was one of Rare's earliest efforts in video games. You'll control a skier who must race down a mountain, dodging obstacles and hitting goals, within the given time. In all there are 24 courses. Your primary goal is to be on the right side of the Slalom flags, as going on the wrong side will cause you to tumble."
     }
   },
   {
     "name": "Soccer",
+    "blackBox": true,
     "released": {
-      "US": "3-1-1987",
+      "US": "10-18-1985",
       "JPN": "4-9-1985",
       "EUR": "1-5-1987"
     },
+    "releasedPrecision": "day",
+    "confidence": "likely",
     "developers": ["Nintendo"],
     "publishers": ["Nintendo"],
     "series": "Sports",
+    "players": {
+      "min": 1,
+      "max": 2,
+      "mode": "versus"
+    },
     "copy": {
       "description": "A simple Soccer game where the player controls a team and try to score more points than the opponent by kicking a ball into the opponents goal."
     }
   },
   {
     "name": "Stack-Up",
+    "blackBox": true,
     "released": {
       "US": "10-18-1985",
       "JPN": "7-26-1985",
-      "EUR": "1-1-1985"
+      "EUR": "9-1-1986"
     },
+    "releasedPrecision": "day",
     "developers": ["Nintendo R&D1"],
     "publishers": ["Nintendo"],
     "series": "Robot",
+    "players": {
+      "min": 1,
+      "max": 2,
+      "mode": "special",
+      "note": "Two players only in Bingo mode (manual)."
+    },
     "copy": {
       "description": "Set up R.O.B. with the colored discs included in the game and then control his movements in the game by using Professor Hector to jump onto various blocks. The blocks represent commands given to R.O.B. in sequence."
     }
   },
   {
-    "name": "Super Mario Bros",
+    "name": "Super Mario Bros.",
+    "blackBox": true,
     "released": {
-      "US": "10-1-1985",
+      "US": "10-18-1985",
       "JPN": "9-13-1985",
       "EUR": "5-15-1987"
     },
+    "releasedPrecision": "day",
+    "confidence": "likely",
     "developers": ["Nintendo R&D4"],
     "publishers": ["Nintendo"],
     "series": "Action",
+    "players": {
+      "min": 1,
+      "max": 2,
+      "mode": "alternating"
+    },
     "copy": {
       "description": "A 2D sidescrolling platform game in which players play as Mario to traverse through levels by running or jumping. The object of each stage is to get to the flagpole at the end and clear the level. The game features eight worlds with four stages each, ending with a boss battle with a fake Bowser and Toad stating that the princess isn't in the castle.",
       "story": "One day, the king of the Koopas Bowser invades the peaceful Mushroom Kingdom and turns the inhabitants into stones, bricks and plants. The only one who is able to undo the black magic of the Koopas is Princess Toadstool, who was captured by Bowser and imprisons her in the last of his eight castles. The Mario Bros. hear about what happened and set out to free the princess, defeat Bowser and restore order to the Mushroom Kingdom"
@@ -400,70 +594,105 @@
   },
   {
     "name": "Tennis",
+    "blackBox": true,
     "released": {
       "US": "10-18-1985",
       "JPN": "1-14-1984",
-      "EUR": "09-1-1986"
+      "EUR": "9-1-1986"
     },
+    "releasedPrecision": "day",
     "developers": ["Nintendo R&D1"],
     "publishers": ["Nintendo"],
     "series": "Sports",
+    "players": {
+      "min": 1,
+      "max": 2,
+      "mode": "cooperative",
+      "note": "Two players team up in doubles."
+    },
     "copy": {
       "description": "Tennis gives one or two players the chance to compete against opponents on five different challenge modes. Mario guest stars as the umpire, making the appropriate calls when needed. "
     }
   },
   {
     "name": "Urban Champion",
+    "blackBox": true,
     "released": {
-      "US": "08-1-1986",
+      "US": "6-1-1986",
       "JPN": "11-14-1984",
-      "EUR": "1-1-1986"
+      "EUR": "1986"
     },
+    "releasedPrecision": "month",
     "developers": ["Nintendo R&D1"],
     "publishers": ["Nintendo"],
     "series": "Action",
+    "players": {
+      "min": 1,
+      "max": 2,
+      "mode": "versus"
+    },
     "copy": {
       "description": "The game places you in a small town as you try to punch your enemy into a sewer."
     }
   },
   {
     "name": "Volleyball",
+    "blackBox": true,
     "released": {
       "US": "3-1-1987",
       "JPN": "7-21-1986",
       "EUR": "11-16-1987"
     },
+    "releasedPrecision": "month",
     "developers": ["Nintendo R&D1", "Pax Softnica"],
     "publishers": ["Nintendo"],
     "series": "Sports",
+    "players": {
+      "min": 1,
+      "max": 2,
+      "mode": "versus"
+    },
     "copy": {
       "description": "Based off the popular sport of the same name, Volleyball enables the player to choose the amount of people on their team, their country and their gender. The countries include the United States, China, Japan, South Korea, Brazil, Cuba, Russia (USR), and Tunisia."
     }
   },
   {
     "name": "Wild Gunman",
+    "blackBox": true,
     "released": {
-      "US": "02-18-1985",
-      "JPN": "02-18-1984",
-      "EUR": "02-15-1988"
+      "US": "10-18-1985",
+      "JPN": "2-18-1984",
+      "EUR": "2-15-1988"
     },
+    "releasedPrecision": "day",
     "developers": ["Nintendo R&D1"],
     "publishers": ["Nintendo"],
     "series": "Light Gun",
+    "players": {
+      "min": 1,
+      "max": 1
+    },
     "copy": {
       "description": "The player waits for the opponent's eyes to flash (accompanied by a speech bubble reading \"FIRE!!\") before shooting. It features a shooting gallery where opponents are to be shot from the windows of a saloon."
     }
   },
   {
-    "name": " Wrecking Crew",
+    "name": "Wrecking Crew",
+    "blackBox": true,
     "released": {
       "US": "10-18-1985",
-      "JPN": "06-18-1985",
+      "JPN": "6-18-1985",
       "EUR": "10-15-1987"
     },
+    "releasedPrecision": "day",
     "developers": ["Nintendo R&D1"],
     "publishers": ["Nintendo"],
     "series": "Programmable",
+    "players": {
+      "min": 1,
+      "max": 2,
+      "mode": "alternating"
+    },
     "copy": {
       "description": "The player controls Mario and attempts to destroy all of a certain set of objects with a large hammer on each of 100 levels."
     }

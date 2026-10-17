@@ -356,7 +356,7 @@
       "mode": "alternating"
     },
     "copy": {
-      "story": "One day, a kung-fu master, Thomas, and his girlfriend, Silvia, are attacked by a gang of mysterious men. While Thomas is trying to fight off the people in front of him, more come from the back, capture Silvia and then all of them take off. Thomas follows X's instructions and immediately shows up at the temple. There he must fight through 5 floors, each with an array of enemies, obstacles, and a boss at the end, until he reaches the 6th floor, in which he must fight Mr. X himself to free Silvia.",
+      "story": "One day, a kung-fu master, Thomas, and his girlfriend, Silvia, are attacked by a gang of mysterious men. While Thomas is trying to fight off the people in front of him, more come from behind, capture Silvia and take off with her. Their leader, the mysterious Mr. X, holds her at the top of his five-floor temple. Thomas fights his way up through each floor's enemies, obstacles and boss, until he reaches the fifth floor and faces Mr. X himself to free Silvia.",
       "description": "Players go through a side-scrolling level and can traverse upwards and downwards at the same time. Punches are the most powerful type of attack, though kicks have much better range. If the player character, Thomas, is attacked by an opponent, his health will subsequently start to decrease. Attacking them with your variety of attacks will cause them to eventually be defeated. At the end of each stage is a boss the player must defeat in order to progress. In all there are five bosses. Once all of the bosses have been defeated, the player will then start the game over, though it'll be more challenging the second time around."
     }
   },
@@ -654,7 +654,7 @@
       "mode": "versus"
     },
     "copy": {
-      "description": "Based on the popular sport of the same name, Volleyball enables the player to choose the amount of people on their team, their country and their gender. The countries include the United States, China, Japan, South Korea, Brazil, Cuba, Russia (USSR), and Tunisia."
+      "description": "Based on the popular sport of the same name, Volleyball enables the player to choose the amount of people on their team, their country and their gender. The countries include the United States, the Soviet Union, China, Japan, South Korea, Brazil, Cuba and Tunisia."
     }
   },
   {

@@ -17,7 +17,8 @@
       "mode": "versus"
     },
     "copy": {
-      "description": "10-Yard Fight is a 1-2 player football game and one of the first NES games released in North America. It was developed by Nintendo R&D1 and published by Nintendo in North America. It was first released in Japan on August 30, 1983. It was then subsequently released in the Americas and Europe on October 18th and December 6th, 1985, respectively."
+      "description": "10-Yard Fight is a 1-2 player football game and one of the first NES games released in North America. It was developed by Nintendo R&D1 and published by Nintendo in North America. It was first released in Japan on August 30, 1983. It was then subsequently released in the Americas and Europe on October 18th and December 6th, 1985, respectively.",
+      "curatorNote": "Irem built 10-Yard Fight for arcades in 1983, and it became one of only two NES launch titles not made by Nintendo, alongside Kung Fu. You never pick a play: after the snap you just run, pitch or throw. A Pittsburgh paper later called it the \"patriarch of football games.\""
     }
   },
   {
@@ -38,7 +39,8 @@
       "mode": "simultaneous"
     },
     "copy": {
-      "description": "Balloon Fight is a two player NES game about a Balloon Fighter, who rides to the top with two balloons on his harness, and avoids ducks. There is also a multiplayer version where two Balloon Fighters fight with different weapons attempting to pop their opponents' balloons. Also the Balloon Fighter was planned to be a fighter in Super Smash Bros. Melee, but was plucked out at the last minute."
+      "description": "Balloon Fight is a two player NES game about a Balloon Fighter, who rides to the top with two balloons on his harness, and avoids ducks. There is also a multiplayer version where two Balloon Fighters fight with different weapons attempting to pop their opponents' balloons. Also the Balloon Fighter was planned to be a fighter in Super Smash Bros. Melee, but was plucked out at the last minute.",
+      "curatorNote": "Satoru Iwata, then a young programmer at HAL Laboratory and later Nintendo's president, was in charge of the NES version, and he built its endless Balloon Trip mode in just three days. Nintendo liked the game's floaty, flap-to-fly controls so much that it reused them for the underwater levels of Super Mario Bros."
     }
   },
   {
@@ -59,7 +61,8 @@
       "mode": "versus"
     },
     "copy": {
-      "description": "Baseball is a game that was released on the Nintendo Entertainment System and Game Boy based on the popular game of the same name. It is a simple Baseball game that is both developed and published by Nintendo."
+      "description": "Baseball is a game that was released on the Nintendo Entertainment System and Game Boy based on the popular game of the same name. It is a simple Baseball game that is both developed and published by Nintendo.",
+      "curatorNote": "Shigeru Miyamoto pushed for a baseball game early in the Famicom's life, and it arrived in December 1983, five months after the console. With no license, the six teams are just letters, chosen to match real Central League clubs in Japan and MLB teams in America. Its success inspired Namco's Family Stadium, the series Americans know as R.B.I. Baseball."
     }
   },
   {
@@ -80,7 +83,8 @@
       "mode": "simultaneous"
     },
     "copy": {
-      "description": "Clu Clu Land is a video game released on the NES in 1984. It stars the red, sphere-like protagonist Bubbles, who gets around by grabbing poles, swinging around them, then letting go to change directions."
+      "description": "Clu Clu Land is a video game released on the NES in 1984. It stars the red, sphere-like protagonist Bubbles, who gets around by grabbing poles, swinging around them, then letting go to change directions.",
+      "curatorNote": "Bubbles the balloonfish can't stop or turn on her own. She only changes direction by grabbing turning posts, which is where the name comes from: \"kuru kuru\" is Japanese for \"around and around.\" A later Famicom Disk System version was the last game ever released for that system."
     }
   },
   {
@@ -102,7 +106,8 @@
     },
     "copy": {
       "description": "Donkey Kong was a port of the 1981 arcade game of the same name, hailed at the time as the most popular video game.",
-      "story": "As the story goes, an escaped ape known as Donkey Kong has kidnapped a woman named Pauline, and takes her to a construction site. With Pauline's boyfriend, Mario, in pursuit after she yells for help, Donkey Kong uses his surroundings to try to stop Mario from saving his girlfriend. Along the way, Mario also finds tools and items which can help him on his journey upwards."
+      "story": "As the story goes, an escaped ape known as Donkey Kong has kidnapped a woman named Pauline, and takes her to a construction site. With Pauline's boyfriend, Mario, in pursuit after she yells for help, Donkey Kong uses his surroundings to try to stop Mario from saving his girlfriend. Along the way, Mario also finds tools and items which can help him on his journey upwards.",
+      "curatorNote": "Donkey Kong exists because Nintendo couldn't get the rights to Popeye. Shigeru Miyamoto's first game as a designer swapped Popeye, Bluto and Olive Oyl for a carpenter, an ape and a damsel named Pauline. The carpenter, called Jumpman in the arcade, became Mario."
     }
   },
   {
@@ -123,7 +128,8 @@
       "mode": "alternating"
     },
     "copy": {
-      "description": "Donkey Kong 3 is an arcade game that features Donkey Kong and Stanley. Stanley is a bugman that comes to defeat Donkey Kong because he broke into his greenhouse. Stanley will now have to use his bug spray to not only defeat Donkey Kong, but also kill all the bugs that DK let in. This is the first Donkey Kong game that doesn't feature Mario and is the first one not to be a direct platform game, which could have led to its unsuccessful sales. Instead of being a platform game, it was rather a shooting game."
+      "description": "Donkey Kong 3 is an arcade game that features Donkey Kong and Stanley. Stanley is a bugman that comes to defeat Donkey Kong because he broke into his greenhouse. Stanley will now have to use his bug spray to not only defeat Donkey Kong, but also kill all the bugs that DK let in. This is the first Donkey Kong game that doesn't feature Mario and is the first one not to be a direct platform game, which could have led to its unsuccessful sales. Instead of being a platform game, it was rather a shooting game.",
+      "curatorNote": "The first Donkey Kong game without Mario. Stanley the bugman defends his greenhouse with a bug sprayer, turning the series from a platformer into a shooter."
     }
   },
   {
@@ -145,7 +151,8 @@
     },
     "copy": {
       "description": "Donkey Kong Jr., also spelled Donkey Kong Junior in early arcade releases and home ports, is an arcade game starring Donkey Kong Jr. It is the direct sequel to Donkey Kong, and it and the similar Donkey Kong II, as well as Donkey Kong Circus are the only games in the Mario franchise where Mario is the antagonist.",
-      "story": "Poor Donkey Kong™ has been captured by Mario™ and now finds himself locked up in a cage! It's up to Donkey Kong's son, Junior, to rescue him by snatching the keys to the cage away from Mario. Unfortunately for Junior, Mario won't give up those keys easily, and dangerous snap-jaws, nitpickers, and sparks will attack him along the way. Will Junior be able to help his father...? That all depends on you!"
+      "story": "Poor Donkey Kong™ has been captured by Mario™ and now finds himself locked up in a cage! It's up to Donkey Kong's son, Junior, to rescue him by snatching the keys to the cage away from Mario. Unfortunately for Junior, Mario won't give up those keys easily, and dangerous snap-jaws, nitpickers, and sparks will attack him along the way. Will Junior be able to help his father...? That all depends on you!",
+      "curatorNote": "The only game where Mario is the villain. He has locked Donkey Kong in a cage, and you play as the ape's son climbing vines to set him free."
     }
   },
   {
@@ -167,7 +174,8 @@
       "mode": "versus"
     },
     "copy": {
-      "description": "Donkey Kong Jr. Math was the third game released in the Donkey Kong series, and the second to feature Donkey Kong Jr. It was released in 1983 for the NES. Donkey Kong will hold up a sign, and Donkey Kong Jr. must find the numbers and math sign to get to that number to get a point."
+      "description": "Donkey Kong Jr. Math was the third game released in the Donkey Kong series, and the second to feature Donkey Kong Jr. It was released in 1983 for the NES. Donkey Kong will hold up a sign, and Donkey Kong Jr. must find the numbers and math sign to get to that number to get a point.",
+      "curatorNote": "The only game Nintendo ever released in North America under its \"Education Series\" label. Donkey Kong Jr. climbs to grab numbers and solve arithmetic problems, and the series stopped there."
     }
   },
   {
@@ -189,7 +197,8 @@
       "note": "Game A only: a second player can fly the duck with controller 2."
     },
     "copy": {
-      "description": "Your trusty hunting dog wades into the marshes to flush out your prey. Your fingers tighten around your Zapper™ light gun. Suddenly, there's a duck in the air! You've only got three shots to bag this duck, and if you miss, even your dog laughs at you! But become a sharp-shooter, and you'll progress to the next round where two ducks fly up at the same time. And then you're on to the ultimate challenge: Clay Shooting. Where you'll compete in a wild clay-pigeon shooting contest! Play DUCK HUNT and discover that you can have lots of laughs and be challenged at the same time."
+      "description": "Your trusty hunting dog wades into the marshes to flush out your prey. Your fingers tighten around your Zapper™ light gun. Suddenly, there's a duck in the air! You've only got three shots to bag this duck, and if you miss, even your dog laughs at you! But become a sharp-shooter, and you'll progress to the next round where two ducks fly up at the same time. And then you're on to the ultimate challenge: Clay Shooting. Where you'll compete in a wild clay-pigeon shooting contest! Play DUCK HUNT and discover that you can have lots of laughs and be challenged at the same time.",
+      "curatorNote": "Nintendo made light guns long before it made video games. Duck Hunt grew out of a 1976 Beam Gun toy of the same name by Gunpei Yokoi and Masayuki Uemura. In the arcade VS. Duck Hunt you can finally shoot the laughing dog during the bonus round, but Nintendo kept him safe on the NES to keep it family-friendly."
     }
   },
   {
@@ -209,7 +218,8 @@
       "max": 1
     },
     "copy": {
-      "description": "In Excitebike, players control a motorcyclist and race for the best ranking against other opponents. The player can choose to speed up (Turbo mode), however, using it too much can cause the bike to overheat. The courses feature slopes in which players can control the direction of the bike before it lands. If at a bad angle, the bike will crash, wasting valuable time. If the player ends up with a rank too low, they will be disqualified."
+      "description": "In Excitebike, players control a motorcyclist and race for the best ranking against other opponents. The player can choose to speed up (Turbo mode), however, using it too much can cause the bike to overheat. The courses feature slopes in which players can control the direction of the bike before it lands. If at a bad angle, the bike will crash, wasting valuable time. If the player ends up with a rank too low, they will be disqualified.",
+      "curatorNote": "Excitebike's Design mode let players build their own tracks, years before level editors were common. In Japan you could save them to the Famicom Data Recorder cassette deck, but that never came to America, so American tracks vanished when you switched the console off."
     }
   },
   {
@@ -230,7 +240,8 @@
       "mode": "alternating"
     },
     "copy": {
-      "description": "Golf is a game for the NES released in 1984. It is based on the sport of the same name. It was also ported to the Nintendo PlayChoice-10. The golfer has been identified as Mario in supplemental material, albeit not wearing his traditional shirt and overalls. However, the game Captain Rainbow would instead identify the golfer as Ossan, which happens to be a generic internal name Mario had during the development of Donkey Kong. Additionally, the Game Boy conversion of this game would feature Mario on the Western cover art, but not the Japanese version."
+      "description": "Golf is a game for the NES released in 1984. It is based on the sport of the same name. It was also ported to the Nintendo PlayChoice-10. The golfer has been identified as Mario in supplemental material, albeit not wearing his traditional shirt and overalls. However, the game Captain Rainbow would instead identify the golfer as Ossan, which happens to be a generic internal name Mario had during the development of Donkey Kong. Additionally, the Game Boy conversion of this game would feature Mario on the Western cover art, but not the Japanese version.",
+      "curatorNote": "The whole game was programmed by one person: Satoru Iwata, who later became Nintendo's president. It introduced the power-and-accuracy swing meter that golf games still use. After his death, a copy was hidden inside early Nintendo Switch firmware as a quiet tribute, unlocked only on July 11, the anniversary of his death."
     }
   },
   {
@@ -251,7 +262,8 @@
     },
     "copy": {
       "description": "Classic NES platformer in which the game continuously scrolls to the right. Players must use the NES Zapper accessory to make the character (Gumshoe) avoid obstacles and reach platforms. The Zapper can also be used to shoot enemies in the path.",
-      "story": "Mr. Stevenson is an ex-FBI agent turned detective. He receives a ransom note from a mafia boss, King Dom, who has kidnapped Stevenson's daughter, Jennifer. Stevenson must collect five 'Black Panther Diamonds' within 24 hours in order to see his daughter again."
+      "story": "Mr. Stevenson is an ex-FBI agent turned detective. He receives a ransom note from a mafia boss, King Dom, who has kidnapped Stevenson's daughter, Jennifer. Stevenson must collect five 'Black Panther Diamonds' within 24 hours in order to see his daughter again.",
+      "curatorNote": "In the strangest Zapper game, you shoot your own detective to make him jump while he walks forward on his own. Designed by Yoshio Sakamoto, who later helped create Metroid, it was never released in Japan, which is unusual for a Nintendo game."
     }
   },
   {
@@ -273,7 +285,8 @@
       "note": "Designed for one player with R.O.B. on controller 2; a second person can work controller 2 instead."
     },
     "copy": {
-      "description": "Professor Hector, a somewhat aged scientist, must traverse his expansive laboratory in order to collect and defuse the dynamite which is scattered across his lab. This game is one of the only two games that had support for the R.O.B., with the other game being Stack-Up."
+      "description": "Professor Hector, a somewhat aged scientist, must traverse his expansive laboratory in order to collect and defuse the dynamite which is scattered across his lab. This game is one of the only two games that had support for the R.O.B., with the other game being Stack-Up.",
+      "curatorNote": "R.O.B. was a Trojan horse. After the 1983 crash, stores didn't want video games, so Nintendo sold the NES with a robot to make it look like a toy. Launch cartridges were really the Japanese game, Robot Gyro, wired to an adapter, and Nintendo renamed the box but never the game itself, so the title screen still says Robot Gyro."
     }
   },
   {
@@ -293,7 +306,8 @@
       "max": 1
     },
     "copy": {
-      "description": "Players shoot fake cardboard people on the screen. If the criminal is shot, the player continues, and if the police or citizens are shot, the player is penalized. Should a criminal not be shot, the player will also be penalized. Should there be too many penalties, the game is over."
+      "description": "Players shoot fake cardboard people on the screen. If the criminal is shot, the player continues, and if the police or citizens are shot, the player is penalized. Should a criminal not be shot, the player will also be penalized. Should there be too many penalties, the game is over.",
+      "curatorNote": "Named after the mock towns where police and FBI agents train, the first of which was built at Camp Perry, Ohio, in the 1920s. Shigeru Miyamoto designed it: shoot the gangsters, spare the bystanders. It topped the US arcade charts in 1985."
     }
   },
   {
@@ -314,7 +328,8 @@
       "mode": "simultaneous"
     },
     "copy": {
-      "description": "Two kids, the Ice Climbers, Popo and Nana, climb to the top of an icy mountain filled with enemies such as Topis and Polar Bears to stop the evil condor at the top. The player wields a hammer to both kill enemies, and to make openings on the platform above."
+      "description": "Two kids, the Ice Climbers, Popo and Nana, climb to the top of an icy mountain filled with enemies such as Topis and Polar Bears to stop the evil condor at the top. The player wields a hammer to both kill enemies, and to make openings on the platform above.",
+      "curatorNote": "Popo and Nana climb 32 mountains with only wooden mallets. Sixteen years later, the pair became one of the surprise fighters in Super Smash Bros. Melee."
     }
   },
   {
@@ -335,7 +350,8 @@
     },
     "copy": {
       "description": "The player controls Pit through two-dimensional levels while fighting evil creatures and collecting items. Their objective is to find and defeat monsters that guard the three treasures.",
-      "story": "Kid Icarus is set in the fantasy world known as Angel Land and revolves around Pit, an angel, and his quest for Three Sacred Treasures which he must equip to destroy the evil goddess of darkness Medusa and liberate the goddess of light and rightful ruler of Angel Land Palutena."
+      "story": "Kid Icarus is set in the fantasy world known as Angel Land and revolves around Pit, an angel, and his quest for Three Sacred Treasures which he must equip to destroy the evil goddess of darkness Medusa and liberate the goddess of light and rightful ruler of Angel Land Palutena.",
+      "curatorNote": "Built at the same time as Metroid and by many of the same people, and it shows: both mix exploration with punishing platforming. Pit vanished for two decades until Super Smash Bros. Brawl brought him back in 2008, followed by his own game, Kid Icarus: Uprising, in 2012."
     }
   },
   {
@@ -357,7 +373,8 @@
     },
     "copy": {
       "story": "One day, a kung-fu master, Thomas, and his girlfriend, Silvia, are attacked by a gang of mysterious men. While Thomas is trying to fight off the people in front of him, more come from behind, capture Silvia and take off with her. Their leader, the mysterious Mr. X, holds her at the top of his five-floor temple. Thomas fights his way up through each floor's enemies, obstacles and boss, until he reaches the fifth floor and faces Mr. X himself to free Silvia.",
-      "description": "Players go through a side-scrolling level and can traverse upwards and downwards at the same time. Punches are the most powerful type of attack, though kicks have much better range. If the player character, Thomas, is attacked by an opponent, his health will subsequently start to decrease. Attacking them with your variety of attacks will cause them to eventually be defeated. At the end of each stage is a boss the player must defeat in order to progress. In all there are five bosses. Once all of the bosses have been defeated, the player will then start the game over, though it'll be more challenging the second time around."
+      "description": "Players go through a side-scrolling level and can traverse upwards and downwards at the same time. Punches are the most powerful type of attack, though kicks have much better range. If the player character, Thomas, is attacked by an opponent, his health will subsequently start to decrease. Attacking them with your variety of attacks will cause them to eventually be defeated. At the end of each stage is a boss the player must defeat in order to progress. In all there are five bosses. Once all of the bosses have been defeated, the player will then start the game over, though it'll be more challenging the second time around.",
+      "curatorNote": "This is Irem's Kung-Fu Master, a loose adaptation of Jackie Chan's 1984 film Wheels on Meals, which was released in Japan as Spartan X. Thomas and his kidnapped girlfriend Sylvia take their names from the film, and the five-floor temple comes from Bruce Lee's Game of Death."
     }
   },
   {
@@ -377,7 +394,8 @@
       "max": 1
     },
     "copy": {
-      "description": "Mach Rider takes place in the year 2112 when the earth has been invaded by evil forces. In the game, the Mach Rider drives a motorcycle, the Mach Bike, while destroying all the enemies in his way."
+      "description": "Mach Rider takes place in the year 2112 when the earth has been invaded by evil forces. In the game, the Mach Rider drives a motorcycle, the Mach Bike, while destroying all the enemies in his way.",
+      "curatorNote": "Mach Rider started life as a 1972 Nintendo toy, a plastic race car you revved up and launched off a ramp. The game, set in the year 2112, lets you design your own courses, but like Excitebike's, the cassette to save them never left Japan."
     }
   },
   {
@@ -398,7 +416,8 @@
       "mode": "simultaneous"
     },
     "copy": {
-      "description": "In Mario Bros., the player will take control of Mario. Luigi is also available as a playable character to a second player who wishes to work competitively or cooperatively alongside another player. There are various stages in Mario Bros., and in each one the ultimate goal is to eliminate the threat of pesky critters that have been infiltrating New York's sewers."
+      "description": "In Mario Bros., the player will take control of Mario. Luigi is also available as a playable character to a second player who wishes to work competitively or cooperatively alongside another player. There are various stages in Mario Bros., and in each one the ultimate goal is to eliminate the threat of pesky critters that have been infiltrating New York's sewers.",
+      "curatorNote": "This 1983 arcade game is where Mario became a plumber and where his brother Luigi made his debut. Its POW block and its two-player sewer battles have turned up in Mario games ever since."
     }
   },
   {
@@ -419,7 +438,8 @@
     },
     "copy": {
       "description": "The basic gameplay is a mix of action adventure and platform shooter. The player begins with a very limited amount of power-ups, but must always use their ingenuity to achieve the next 'locked' or unreachable area.",
-      "story": "In the year 20X5, the Space Pirates attack a Galactic Federation-owned space research vessel and seize samples of Metroid creatures—the parasitic lifeforms discovered on the planet SR388. While searching for the stolen Metroids, the Galactic Federation locates the Space Pirates' base of operations on the planet Zebes. The Federation decides to send a lone bounty hunter to penetrate the Pirates' base and destroy Mother Brain, the biomechanical life-form that controls the Space Pirates' fortress and its defenses. Considered the greatest of all bounty hunters, Samus Aran is chosen for the mission."
+      "story": "In the year 20X5, the Space Pirates attack a Galactic Federation-owned space research vessel and seize samples of Metroid creatures—the parasitic lifeforms discovered on the planet SR388. While searching for the stolen Metroids, the Galactic Federation locates the Space Pirates' base of operations on the planet Zebes. The Federation decides to send a lone bounty hunter to penetrate the Pirates' base and destroy Mother Brain, the biomechanical life-form that controls the Space Pirates' fortress and its defenses. Considered the greatest of all bounty hunters, Samus Aran is chosen for the mission.",
+      "curatorNote": "Metroid saves its biggest surprise for last: finish quickly, and the armored bounty hunter takes off the helmet to reveal Samus Aran, one of gaming's first female heroes. Its interconnected world, where each new item like the Morph Ball or the bombs opens paths you passed earlier, gave half of the \"Metroidvania\" genre its name."
     }
   },
   {
@@ -440,7 +460,8 @@
       "mode": "alternating"
     },
     "copy": {
-      "description": "Pinball is a game where the player controls the paddles of a virtual pinball machine. The game has two screens to represent the traditional pinball table and one for a bonus mode."
+      "description": "Pinball is a game where the player controls the paddles of a virtual pinball machine. The game has two screens to represent the traditional pinball table and one for a bonus mode.",
+      "curatorNote": "Programmed by Satoru Iwata and Satoshi Matsuoka, it hides a bonus stage where Mario carries a platform to rescue Pauline from Donkey Kong. The hardware couldn't handle true curves, so the team built every curved surface from tiny squares."
     }
   },
   {
@@ -461,7 +482,8 @@
       "mode": "alternating"
     },
     "copy": {
-      "description": "The object of the game is for Popeye the Sailor to collect a certain number of items dropped by Olive Oyl, depending on the level — 24 hearts, 16 musical notes, or 24 letters in the word HELP — while avoiding the Sea Hag, Brutus and other dangers."
+      "description": "The object of the game is for Popeye the Sailor to collect a certain number of items dropped by Olive Oyl, depending on the level — 24 hearts, 16 musical notes, or 24 letters in the word HELP — while avoiding the Sea Hag, Brutus and other dangers.",
+      "curatorNote": "Nintendo wanted Popeye for the game that became Donkey Kong, but couldn't get the rights in time. When it finally did, this 1982 arcade game followed, with Popeye catching the hearts Olive Oyl tosses down while dodging Bluto."
     }
   },
   {
@@ -482,7 +504,8 @@
       "mode": "versus"
     },
     "copy": {
-      "description": "Pro Wrestling was the first wrestling game on the console and was both published and developed by Nintendo. In all there are seven distinct characters the player can choose from, each with their own special abilities."
+      "description": "Pro Wrestling was the first wrestling game on the console and was both published and developed by Nintendo. In all there are seven distinct characters the player can choose from, each with their own special abilities.",
+      "curatorNote": "Its victory screen gave gamers one of their first memes: \"A WINNER IS YOU.\" Programmed entirely by Masato Masuda, who went on to create Fire Pro Wrestling, it was also the first wrestling game with a ringside cameraman."
     }
   },
   {
@@ -502,7 +525,8 @@
       "max": 1
     },
     "copy": {
-      "description": "Rad Racer, released as Highway Star in Japan, is a racing video game developed and published by Square for the Nintendo Entertainment System (NES) in 1987. In this game, players drive a Ferrari 328 or a generic Formula One racing machine through a racecourse."
+      "description": "Rad Racer, released as Highway Star in Japan, is a racing video game developed and published by Square for the Nintendo Entertainment System (NES) in 1987. In this game, players drive a Ferrari 328 or a generic Formula One racing machine through a racecourse.",
+      "curatorNote": "Square's racer was coded largely by one programmer, Nasir Gebelli, who drew much of its 3D by hand and included red-and-blue glasses for its 3D mode. It stars in the 1989 film The Wizard, driven with a Power Glove, and came out months before Square bet the company on Final Fantasy."
     }
   },
   {
@@ -522,7 +546,8 @@
       "max": 1
     },
     "copy": {
-      "description": "A skiing game developed by Rare and published by Nintendo. The game was one of Rare's earliest efforts in video games. You'll control a skier who must race down a mountain, dodging obstacles and hitting goals, within the given time. In all there are 24 courses. Your primary goal is to be on the right side of the Slalom flags, as going on the wrong side will cause you to tumble."
+      "description": "A skiing game developed by Rare and published by Nintendo. The game was one of Rare's earliest efforts in video games. You'll control a skier who must race down a mountain, dodging obstacles and hitting goals, within the given time. In all there are 24 courses. Your primary goal is to be on the right side of the Slalom flags, as going on the wrong side will cause you to tumble.",
+      "curatorNote": "The first NES game made outside Japan. Brothers Tim and Chris Stamper of Rare, a small studio in the English countryside, reverse-engineered the NES to win Nintendo over, became its first Western developer, and went on to make Donkey Kong Country and GoldenEye 007."
     }
   },
   {
@@ -544,7 +569,8 @@
       "mode": "versus"
     },
     "copy": {
-      "description": "A simple Soccer game where the player controls a team and tries to score more points than the opponent by kicking a ball into the opponent's goal."
+      "description": "A simple Soccer game where the player controls a team and tries to score more points than the opponent by kicking a ball into the opponent's goal.",
+      "curatorNote": "Built by Intelligent Systems, with music by Koji Kondo the same year he wrote the Super Mario Bros. theme. Seven national teams compete over halves of 15, 30 or 45 minutes, with cheerleaders at halftime."
     }
   },
   {
@@ -566,7 +592,8 @@
       "note": "Two players only in Bingo mode (manual)."
     },
     "copy": {
-      "description": "Set up R.O.B. with the colored discs included in the game and then control his movements in the game by using Professor Hector to jump onto various blocks. The blocks represent commands given to R.O.B. in sequence."
+      "description": "Set up R.O.B. with the colored discs included in the game and then control his movements in the game by using Professor Hector to jump onto various blocks. The blocks represent commands given to R.O.B. in sequence.",
+      "curatorNote": "The rarer of the two R.O.B. games, sold on its own rather than bundled with the console. You direct the robot to stack colored blocks to match a pattern. Like Gyromite, most cartridges held the unchanged Japanese game behind an adapter, so the title screen says Robot Block."
     }
   },
   {
@@ -589,7 +616,8 @@
     },
     "copy": {
       "description": "A 2D sidescrolling platform game in which players play as Mario to traverse through levels by running or jumping. The object of each stage is to get to the flagpole at the end and clear the level. The game features eight worlds with four stages each, ending with a boss battle with a fake Bowser and Toad stating that the princess isn't in the castle.",
-      "story": "One day, the king of the Koopas, Bowser, invades the peaceful Mushroom Kingdom and turns the inhabitants into stones, bricks and plants. The only one who is able to undo the black magic of the Koopas is Princess Toadstool, who was captured by Bowser and imprisoned in the last of his eight castles. The Mario Bros. hear about what happened and set out to free the princess, defeat Bowser and restore order to the Mushroom Kingdom."
+      "story": "One day, the king of the Koopas, Bowser, invades the peaceful Mushroom Kingdom and turns the inhabitants into stones, bricks and plants. The only one who is able to undo the black magic of the Koopas is Princess Toadstool, who was captured by Bowser and imprisoned in the last of his eight castles. The Mario Bros. hear about what happened and set out to free the princess, defeat Bowser and restore order to the Mushroom Kingdom.",
+      "curatorNote": "In 2023, Koji Kondo's overworld theme became the first piece of video game music added to the Library of Congress's National Recording Registry, alongside recordings that shaped American culture. Packed in with the NES, the game sold over 40 million copies and was the best-selling video game for more than two decades."
     }
   },
   {
@@ -611,7 +639,8 @@
       "note": "Two players team up in doubles."
     },
     "copy": {
-      "description": "Tennis gives one or two players the chance to compete against opponents on five different challenge modes. Mario guest stars as the umpire, making the appropriate calls when needed."
+      "description": "Tennis gives one or two players the chance to compete against opponents on five different challenge modes. Mario guest stars as the umpire, making the appropriate calls when needed.",
+      "curatorNote": "Look at the umpire's chair: that's Mario, in one of his earliest cameos. Shigeru Miyamoto designed it, and the arcade version topped Japan's table-cabinet charts for three straight months in 1984."
     }
   },
   {
@@ -633,7 +662,8 @@
       "mode": "versus"
     },
     "copy": {
-      "description": "The game places you in a small town as you try to punch your enemy into a sewer."
+      "description": "The game places you in a small town as you try to punch your enemy into a sewer.",
+      "curatorNote": "Nintendo's first fighting game turns a street fight into slapstick. Two brawlers trade high and low punches down the sidewalk while flower pots fall from the windows above and a police car rolls by to break it up. Win the last round and you knock your rival into an open manhole."
     }
   },
   {
@@ -654,7 +684,8 @@
       "mode": "versus"
     },
     "copy": {
-      "description": "Based on the popular sport of the same name, Volleyball enables the player to choose the amount of people on their team, their country and their gender. The countries include the United States, the Soviet Union, China, Japan, South Korea, Brazil, Cuba and Tunisia."
+      "description": "Based on the popular sport of the same name, Volleyball enables the player to choose the amount of people on their team, their country and their gender. The countries include the United States, the Soviet Union, China, Japan, South Korea, Brazil, Cuba and Tunisia.",
+      "curatorNote": "A remake of Attack Four, a 1984 MSX game by the small studio Pax Softnica, made in a rare co-development deal with Nintendo. Its real director, Hiroaki Hontani, went uncredited. You pick men's or women's teams from eight nations, from the Soviet Union to Tunisia."
     }
   },
   {
@@ -674,7 +705,8 @@
       "max": 1
     },
     "copy": {
-      "description": "The player waits for the opponent's eyes to flash (accompanied by a speech bubble reading \"FIRE!!\") before shooting. It features a shooting gallery where opponents are to be shot from the windows of a saloon."
+      "description": "The player waits for the opponent's eyes to flash (accompanied by a speech bubble reading \"FIRE!!\") before shooting. It features a shooting gallery where opponents are to be shot from the windows of a saloon.",
+      "curatorNote": "Before it was an NES game, Wild Gunman was a 1974 Gunpei Yokoi arcade machine that projected 16mm film of a live-action gunslinger. Back to the Future Part II shows Marty McFly playing an arcade version that never actually existed, while two kids are unimpressed that he has to use his hands."
     }
   },
   {
@@ -695,7 +727,8 @@
       "mode": "alternating"
     },
     "copy": {
-      "description": "The player controls Mario and attempts to destroy all of a certain set of objects with a large hammer on each of 100 levels."
+      "description": "The player controls Mario and attempts to destroy all of a certain set of objects with a large hammer on each of 100 levels.",
+      "curatorNote": "Mario trades plumbing for demolition, smashing walls with a hammer across 100 phases. Like Excitebike, it had a Design mode whose levels could only be saved with Japan's Famicom Data Recorder."
     }
   }
 ]

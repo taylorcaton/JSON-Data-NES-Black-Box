@@ -474,7 +474,7 @@
     },
     "releasedPrecision": "month",
     "developers": ["Nintendo R&D1"],
-    "publishers": ["Nintendo", "Parker Brothers"],
+    "publishers": ["Nintendo"],
     "series": "Arcade Classics",
     "players": {
       "min": 1,
@@ -518,7 +518,7 @@
     },
     "releasedPrecision": "month",
     "developers": ["Square"],
-    "publishers": ["Nintendo", "Square", "Mattel"],
+    "publishers": ["Nintendo"],
     "series": "Sports",
     "players": {
       "min": 1,

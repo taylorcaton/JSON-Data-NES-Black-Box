@@ -46,7 +46,7 @@ Sample Array Object
 | `developers`, `publishers` | string array | |
 | `series` | string | The series named on the box banner, e.g. `"Arcade Classics"` for "ARCADE CLASSICS SERIES". |
 | `players` | object | `{ "min", "max", "mode"?, "note"? }`, for example `{ "min": 1, "max": 2, "mode": "versus" }`. |
-| `copy` | object | `description`, and `story` for some games. |
+| `copy` | object | `description`; `story` for some games; and `curatorNote` for every game: a 2-3 sentence curator's note in plain text (no markup), shown as the museum wall label. |
 
 ### Dates
 
